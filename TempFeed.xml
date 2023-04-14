@@ -8987,4 +8987,56 @@ Convenient to all the great shopping, dining and nightlife on Nostrand and Frank
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-02/1990_638119977621186507.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=c5L%2FIeoGu%2BcmaNhBOGn3%2FdEmciRMvbVdTylNryaG8vo%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
     </media>
   </property>
+  <property type="rental" status="active" id="2002" url="https://myspacenyc.cazamio.com/apartments/255-Mc-Kibbin-St-Unit-403-Brooklyn-NY-11206-2002">
+    <location>
+      <address>255 Mc Kibbin St</address>
+      <apartment>403</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11206</zipcode>
+      <neighborhood>East Williamsburg</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>loft</apartment_type>
+      <price>6000</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>3</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>Jun-01-2023</availableOn>
+      <description>Virtual tours available!Beautiful 3 bed / 1 bath apartment in East Williamsburg, prime location! This apartment features spacious living room, queen-sized bedrooms, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout. You'll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Roberta's, Sweet Science, Honey's, Wayward Social, Syndicated, Guadalupe, Reclamation, Ichiran, Momo Sushi Shack, El Cortez. Short commute to Manhattan &amp;amp; easy access to the rest of Brooklyn's hottest neighborhoods. Only blocks from the G train, and a short distance to the L train.</description>
+      <propertyType>rental</propertyType>
+      <amenities>
+        <pets />
+        <other>Hardwood Floors, Loft, Shared Outdoor Space</other>
+      </amenities>
+    </details>
+    <agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+      <media>
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/706/large/IMG_0832.jpg?1662665828" position="0" description="" />
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/702/large/IMG_0838.jpg?1662665821" position="1" description="" />
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/701/large/IMG_0839.jpg?1662665821" position="2" description="" />
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/704/large/IMG_0836.jpg?1662665825" position="3" description="" />
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/705/large/IMG_0834.jpg?1662665828" position="4" description="" />
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/703/large/IMG_0837.jpg?1662665824" position="5" description="" />
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/699/large/IMG_0841.jpg?1662665817" position="6" description="" />
+      <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/446/700/large/IMG_0842.jpg?1662665817" position="7" description="" />
+    </media>
+  </property>
 </properties>
