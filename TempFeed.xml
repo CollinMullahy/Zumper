@@ -5748,7 +5748,7 @@ Small pets accepted</description>
       <neighborhood>Prospect Lefferts Gardens</neighborhood>
     </location>
     <details>
-      <status>Occupied</status>
+      <status>Deposit received</status>
       <apartment_type>multi-family</apartment_type>
       <price>2650</price>
       <featured>no</featured>
@@ -5782,6 +5782,17 @@ Virtual Doorman</description>
         <other>Central A/C</other>
       </amenities>
     </details>
+    <agents>
+      <agent id="179">
+        <company>MySpace NYC</company>
+        <email>belle.msnyc@myspacenyc.com</email>
+        <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+        <phone_numbers>
+          <main>5183304809</main>
+          <cell>5188675309</cell>
+        </phone_numbers>
+      </agent>
+    </agents>
     <agents>
         <agent id="146">
           <name>The Belle Piper Team </name>
