@@ -4104,6 +4104,57 @@ Small pets accepted</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638157159565133496.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
     </media>
   </property>
+  <property type="rental" status="active" id="1937" url="https://myspacenyc.cazamio.com/apartments/33-Montrose-Ave-Unit-3l-Brooklyn-NY-11206-1937">
+    <location>
+      <address>33 Montrose Ave</address>
+      <apartment>3l</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11206</zipcode>
+      <neighborhood>Williamsburg</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <price>3250</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>2</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>May-01-2023</availableOn>
+      <description>Sweetly renovated sunny and spacious 2 bed 1 bath in prime Williamsburg! Cool location close to the Lorimer L, Broadway G and JMZ trains. Shared backyard and  Laundry in bldg. Reach out to view! </description>
+      <propertyType>rental</propertyType>
+      <amenities>
+        <pets />
+        <other>Shared Outdoor Space</other>
+      </amenities>
+    </details>
+    <agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+      <media>
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158605033692630.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158605052202828.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158605064065676.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158605073293126.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158605083068266.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158605091207743.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158605099950862.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+    </media>
+  </property>
   <property type="rental" status="active" id="1939" url="https://myspacenyc.cazamio.com/apartments/58-25-Myrtle-Ave-Unit-3-Queens-NY-11385-1939">
     <location>
       <address>58-25 Myrtle Ave</address>
@@ -6472,66 +6523,6 @@ Contact me for a showing today!</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172967184287251.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
     </media>
   </property>
-  <property type="rental" status="active" id="2005" url="https://myspacenyc.cazamio.com/apartments/67-41-Burns-Street-Unit-2Q-Queens-NY-11375-2005">
-    <location>
-      <address>67-41 Burns Street</address>
-      <apartment>2Q</apartment>
-      <city>Queens</city>
-      <state>NY</state>
-      <zipcode>11375</zipcode>
-      <neighborhood>Flushing</neighborhood>
-    </location>
-    <details>
-      <status>Deposit received</status>
-      <apartment_type>single-family</apartment_type>
-      <price>1950</price>
-      <featured>no</featured>
-      <rental_term>No Rental Term</rental_term>
-      <utilities>No Utils Included</utilities>
-      <bedrooms>0</bedrooms>
-      <totalrooms>0</totalrooms>
-      <bathrooms>1</bathrooms>
-      <availableOn>Apr-16-2023</availableOn>
-      <description>Newly renovated, spacious studio apartment in Forrest Hills!
-
-Brand new kitchen and bathroom. Granate counter tops. Beautiful white cabinets. Lots of closet space. Spacious living room and bedroom. Plenty of natural light. 
-
-Well maintained, stylish building. Laundry room available. Elevator building. 
-
-Great price and location!
-Contact me for more details</description>
-      <propertyType>rental</propertyType>
-      <amenities>
-        <pets>No pets</pets>
-        <other>Above "8" celings, Dishwasher, Intercom system, Full-size oven, Full-size refrigerator, Granite counter tops, Hardwood Floors, Kitchen/bath ceramic floors, Microwave</other>
-      </amenities>
-    </details>
-    <agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-      <media>
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996503736386.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996509127562.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996515512028.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996520572959.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996525584725.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996530551231.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996535302482.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996541266251.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638172996546003494.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-    </media>
-  </property>
   <property type="rental" status="active" id="2007" url="https://myspacenyc.cazamio.com/apartments/1127-Flatbush-Ave-Unit-8C-Brooklyn-NY-11226-2007">
     <location>
       <address>1127 Flatbush Ave</address>
@@ -6922,7 +6913,7 @@ Conveniently Located off the 2,3,4, A, and C trains, as well as the B15, B45, B4
       <neighborhood>Bedford Stuyvesant</neighborhood>
     </location>
     <details>
-      <status>Application submitted</status>
+      <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
       <price>1545</price>
       <featured>no</featured>
@@ -6945,6 +6936,17 @@ Heat &amp; hot water included</description>
         <pets />
       </amenities>
     </details>
+    <agents>
+      <agent id="179">
+        <company>MySpace NYC</company>
+        <email>belle.msnyc@myspacenyc.com</email>
+        <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+        <phone_numbers>
+          <main>5183304809</main>
+          <cell>5188675309</cell>
+        </phone_numbers>
+      </agent>
+    </agents>
     <agents>
         <agent id="146">
           <name>The Belle Piper Team </name>
@@ -9396,34 +9398,6 @@ Available now</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638177807169443384.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
     </media>
   </property>
-  <property type="rental" status="active" id="2065" url="https://myspacenyc.cazamio.com/apartments/21-15-33rd-Street-Unit-2D-Queens-NY-11105-2065">
-    <location>
-      <address>21-15 33rd Street</address>
-      <apartment>2D</apartment>
-      <city>Queens</city>
-      <state>NY</state>
-      <zipcode>11105</zipcode>
-      <neighborhood>Ditmars Steinway</neighborhood>
-    </location>
-    <details>
-      <status>Deposit received</status>
-      <apartment_type>single-family</apartment_type>
-      <price>2350</price>
-      <featured>no</featured>
-      <rental_term>No Rental Term</rental_term>
-      <utilities>No Utils Included</utilities>
-      <bedrooms>1</bedrooms>
-      <totalrooms>0</totalrooms>
-      <bathrooms>1</bathrooms>
-      <availableOn>Apr-22-2023</availableOn>
-      <description />
-      <propertyType>rental</propertyType>
-      <amenities>
-        <pets />
-      </amenities>
-    </details>
-    <media />
-  </property>
   <property type="rental" status="active" id="2066" url="https://myspacenyc.cazamio.com/apartments/144-01-78th-Road-Unit-3C-Queens-NY-11367-2066">
     <location>
       <address>144-01 78th Road</address>
@@ -10088,6 +10062,66 @@ Modern meets classic with style in this fabulous Crown Heights brownstone! This 
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638180333308464112.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638180333309705466.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="13" description="" />
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638180333310708055.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
+    </media>
+  </property>
+  <property type="rental" status="active" id="2077" url="https://myspacenyc.cazamio.com/apartments/31-Montrose-Ave-Unit-3L-Brooklyn-NY-11206-2077">
+    <location>
+      <address>31 Montrose Ave</address>
+      <apartment>3L</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11206</zipcode>
+      <neighborhood>Williamsburg</neighborhood>
+    </location>
+    <details>
+      <status>Vacant</status>
+      <apartment_type>multi-family</apartment_type>
+      <price>3700</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>2</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>Apr-25-2023</availableOn>
+      <description>NO FEE 2BR in Williamsburg.
+
+Must have good credit and income to apply.
+
+Large 2 Bedroom unit.
+Laundry in building
+Dishwasher
+Both rooms are on opposite ends of the apartment.
+Bedrooms fit Queen and full Size Beds.
+Great closet space.
+Central air/heat
+Lots of Natural Sunlight.
+Brand New Kitchen, All Stainless steel appliance</description>
+      <propertyType>rental</propertyType>
+      <amenities>
+        <pets />
+        <other>Dishwasher, Stainless steel appliances, Exposed Brick</other>
+      </amenities>
+    </details>
+    <agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+      <media>
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638180426280257806.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638180426301881938.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638180426309466760.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638180426329135802.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
     </media>
   </property>
 </properties>
