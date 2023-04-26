@@ -10548,4 +10548,41 @@ NO FEE</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638181156835274752.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="24" description="" />
     </media>
   </property>
+  <property type="rental" status="active" id="2080" url="https://myspacenyc.cazamio.com/apartments/543-Madison-Street-Unit-3F-Brooklyn-NY-11221-2080">
+    <location>
+      <address>543 Madison Street</address>
+      <apartment>3F</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11221</zipcode>
+      <neighborhood>Bedford-Stuyvesant</neighborhood>
+    </location>
+    <details>
+      <status>Vacant</status>
+      <apartment_type>multi-family</apartment_type>
+      <price>3250</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>3</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>Apr-26-2023</availableOn>
+      <description>Spacious good looking 3 bedroom on a picture-perfect tree-lined block in Bed-Stuy.
+
+Three spacious queen size bedrooms, one bath.
+Exposed brick throughout, central Ac/heat.
+Spacious living space, cherry wood kitchen, with brand name appliances.
+Near transportation and everything else Bed Stuy is great for.
+
+Pets OK
+Available now</description>
+      <propertyType>rental</propertyType>
+      <amenities>
+        <pets>All pets allowed</pets>
+        <other>Dishwasher, Exposed Brick</other>
+      </amenities>
+    </details>
+    <media />
+  </property>
 </properties>
