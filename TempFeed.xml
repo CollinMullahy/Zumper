@@ -2726,7 +2726,7 @@ Short commute to Manhattan &amp;amp; easy access to the rest of Brooklyn's hotte
     <details>
       <status>Occupied</status>
       <apartment_type>multi-family</apartment_type>
-      <price>2500</price>
+      <price>2450</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
@@ -2776,7 +2776,7 @@ Short commute to Manhattan &amp;amp; easy access to the rest of Brooklyn's hotte
     <details>
       <status>Vacant</status>
       <apartment_type>duplex</apartment_type>
-      <price>3350</price>
+      <price>3000</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
@@ -2998,7 +2998,7 @@ Pets welcome</description>
     <details>
       <status>Occupied</status>
       <apartment_type>multi-family</apartment_type>
-      <price>6800</price>
+      <price>6595</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
@@ -3875,7 +3875,7 @@ Available now</description>
     <details>
       <status>Occupied</status>
       <apartment_type>multi-family</apartment_type>
-      <price>2800</price>
+      <price>2700</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
@@ -10211,7 +10211,7 @@ Available now
     <details>
       <status>Occupied</status>
       <apartment_type>multi-family</apartment_type>
-      <price>4500</price>
+      <price>4650</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
@@ -11548,6 +11548,17 @@ Virtual Doorman</description>
         <other>Central A/C, Hardwood Floors</other>
       </amenities>
     </details>
+    <agents>
+      <agent id="179">
+        <company>MySpace NYC</company>
+        <email>belle.msnyc@myspacenyc.com</email>
+        <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+        <phone_numbers>
+          <main>5183304809</main>
+          <cell>5188675309</cell>
+        </phone_numbers>
+      </agent>
+    </agents>
     <agents>
         <agent id="146">
           <name>The Belle Piper Team </name>
