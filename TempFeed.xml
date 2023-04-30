@@ -1494,6 +1494,67 @@ Call or message to view right away</description>
     </agents>
     <media />
   </property>
+  <property type="rental" status="active" id="2105" url="https://myspacenyc.cazamio.com/apartments/618-Bushwick-Ave-Unit-306-Brooklyn-NY-11206-2105">
+    <location>
+      <address>618 Bushwick Ave</address>
+      <apartment>306</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11206</zipcode>
+      <neighborhood>Bushwick</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>3099</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>1</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>Jun-01-2023</availableOn>
+      <description />
+      <propertyType>rental</propertyType>
+      <owner_company_name>ccm</owner_company_name>
+      <amenities>
+        <pets />
+        <other>Dishwasher, Hardwood Floors, Exposed Brick, Window in every bedroom, Stainless steel appliances, Granite counter tops</other>
+      </amenities>
+    </details>
+    <agents>
+      <agent id="185">
+        <company>MySpace NYC</company>
+        <email>POC1@gmail.com</email>
+        <lead_email>POC1@gmail.com</lead_email>
+        <phone_numbers>
+          <main>5183304809</main>
+        </phone_numbers>
+      </agent>
+    </agents>
+    <agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+      <media>
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638184227991019736.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638184227992984749.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638184227994275839.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638184227995220114.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638184227996261945.png?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    </media>
+  </property>
   <property type="rental" status="active" id="2012" url="https://myspacenyc.cazamio.com/apartments/413-Bushwick-Ave-Unit-3F-Brooklyn-NY-11206-2012">
     <location>
       <address>413 Bushwick Ave</address>
