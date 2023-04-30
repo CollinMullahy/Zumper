@@ -1426,6 +1426,74 @@ Call or text to take a look right away!</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638175392920120425.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
     </media>
   </property>
+  <property type="rental" status="active" id="2104" url="https://myspacenyc.cazamio.com/apartments/594-Bushwick-Ave-Unit-302-Brooklyn-NY-11206-2104">
+    <location>
+      <address>594 Bushwick Ave</address>
+      <apartment>302</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11206</zipcode>
+      <neighborhood>Bushwick</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>3699</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>2</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>May-01-2023</availableOn>
+      <description>Huge luxury 2br with private balcony!!
+
+Unit features:
+Hardwood floors
+Dishwasher
+Stainless steel appliances
+Custom kitchen and bath with beautiful tile work and granite countertops
+Floor to ceiling windows
+Separate efficient PTAC heat and cooling units in all rooms
+Queen Sized bedrooms
+Private balcony is 6ft x 10ft
+Owner will purchase additional armoire / standing closet if needed
+
+Building features:
+Elevator
+Laundy
+Huge Roof deck
+ButterflyMX intercom
+Latch bluetooth lock system
+Parking lot (extra per month and depends on availability)
+Zipcars available
+Bike storage
+State-of-the-art security system throughout
+Fantastic location close to tons of cool local spots as well as a 2min walk to the Myrtle/Broadway JMZ and 12min to the L train.
+
+Pets 
+no fee
+Call or message to view right away</description>
+      <propertyType>rental</propertyType>
+      <owner_company_name>ccm</owner_company_name>
+      <amenities>
+        <pets>All pets allowed</pets>
+        <other>Dishwasher, Private Outdoor Space, Balcony/Terrace</other>
+      </amenities>
+    </details>
+    <agents>
+      <agent id="185">
+        <company>MySpace NYC</company>
+        <email>POC1@gmail.com</email>
+        <lead_email>POC1@gmail.com</lead_email>
+        <phone_numbers>
+          <main>5183304809</main>
+        </phone_numbers>
+      </agent>
+    </agents>
+    <media />
+  </property>
   <property type="rental" status="active" id="2012" url="https://myspacenyc.cazamio.com/apartments/413-Bushwick-Ave-Unit-3F-Brooklyn-NY-11206-2012">
     <location>
       <address>413 Bushwick Ave</address>
