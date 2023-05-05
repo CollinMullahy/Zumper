@@ -2757,7 +2757,7 @@ Reach out to schedule a showing!</description>
       <neighborhood>Prospect Lefferts Gardens</neighborhood>
     </location>
     <details>
-      <status>Deposit received</status>
+      <status>Occupied</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>Broker's Fee</pay_type>
       <price>2699</price>
@@ -12177,7 +12177,7 @@ Email if you?re interested or call before it?s gone!</description>
       <propertyType>rental</propertyType>
       <owner_company_name>TrustMgmt</owner_company_name>
       <amenities>
-        <pets />
+        <pets>All pets allowed</pets>
         <other>Central A/C, Hardwood Floors, Abundance of natural light</other>
       </amenities>
     </details>
