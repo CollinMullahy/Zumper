@@ -1870,7 +1870,7 @@ Broker fee applies
       <neighborhood>Flatbush</neighborhood>
     </location>
     <details>
-      <status>Occupied</status>
+      <status>Deposit received</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>Broker's Fee</pay_type>
       <price>2399</price>
@@ -5712,6 +5712,60 @@ Wont last call / text / email ASAP </description>
       <amenities>
         <pets>All pets allowed</pets>
         <other>Shared Outdoor Space</other>
+      </amenities>
+    </details>
+    <media />
+  </property>
+  <property type="rental" status="active" id="2187" url="https://myspacenyc.cazamio.com/apartments/35-Rogers-Avenue-Unit-4F-Brooklyn-NY-11216-2187">
+    <location>
+      <address>35 Rogers Avenue</address>
+      <apartment>4F</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11216</zipcode>
+      <neighborhood>Crown Heights</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>3112</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>3</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1.5</bathrooms>
+      <availableOn>Jun-01-2023</availableOn>
+      <description>Virtual tour available! 
+First and Security only - NO FEE!
+Excellent price-point for this neighborhood 
+
+Prime West Crown Heights 
+Walk to Prospect Park 
+Tons of cool places to eat, drink and shop nearby 
+Off  A,C, 2, 4, 5 and LIRR train lines! 
+
+3BR 1.5 BA 
+Modern renovation 
+Stainless Steel Appliances 
+Microwave 
+Central heat and air 
+Laundry room! 
+Virtual doorman 
+Roof access! 
+
+Pets ok! 
+
+First and security only- NO FEE
+Unit will rent quickly so call/text/email asap! 
+
+</description>
+      <propertyType>rental</propertyType>
+      <owner_company_name>Jack</owner_company_name>
+      <amenities>
+        <pets />
+        <other>Central A/C, Shared Outdoor Space, Microwave</other>
       </amenities>
     </details>
     <media />
