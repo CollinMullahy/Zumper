@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <properties>
+  <property type="rental" status="active" id="2230" url="https://myspacenyc.cazamio.com/apartments/17-34-Bleecker-St-Unit-3L-Queens-NY-11385-2230">
+    <location>
+      <address>17-34 Bleecker St</address>
+      <apartment>3L</apartment>
+      <city>Queens</city>
+      <state>NY</state>
+      <zipcode>11385</zipcode>
+      <neighborhood>Ridgewood</neighborhood>
+    </location>
+    <details>
+      <status>Vacant</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>2550</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>2</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>May-19-2023</availableOn>
+      <description>HUGE 2 bedroom railroad style (walkthrough) apartment right on the boarder of Bushwick and Ridgewood! This apartment gets awesome light and has a ton of room to work with. Pets are welcome as well!
+
+We just got access to this and still have a lot of cleaning and painting to do but that will be taken care of. See video link. (if you don?t see the link, message me and I?ll send it)
+Massive front bedroom
+Large middle bedroom you need to walk though to get to the master bedroom.
+2 entrances from master bedroom and kitchen.
+Kitchen is very large. Easily fits a large kitchen table
+Only real downside is it has a shower because that bathroom isn?t huge. But if that?s not a deal breaker this is a steal. This is really one of the sweet spot locations for this part of Bushwick/Ridgewood. It has the charm and big tree lined streets Ridgewood is know for but also close to the M and L trains and the popular areas of prime Bushwick.
+4 minutes walk to the M @ Seneca Ave
+8 minutes walk to the L @ Dekalb Ave
+
+Pets are welcome !
+NO fee
+Call or text me to see right away!</description>
+      <propertyType>rental</propertyType>
+      <owner_company_name>No owner company name</owner_company_name>
+      <amenities>
+        <pets />
+        <other>Microwave, Stainless steel appliances, Hardwood Floors</other>
+      </amenities>
+    </details>
+    <agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+      <media>
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638201196236700642.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638201196233694355.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638201196235627504.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638201196235268641.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638201196237171607.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638201196234897935.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+    </media>
+  </property>
   <property type="rental" status="active" id="1852" url="https://myspacenyc.cazamio.com/apartments/7-Ridgewood-Pl-Unit-1R-Brooklyn-NY-11237-1852">
     <location>
       <address>7 Ridgewood Pl</address>
