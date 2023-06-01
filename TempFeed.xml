@@ -1154,7 +1154,7 @@ First security and fee</description>
       <neighborhood>Flatbush</neighborhood>
     </location>
     <details>
-      <status>Vacant</status>
+      <status>Deposit received</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>No Fee</pay_type>
       <price>2900</price>
@@ -8953,6 +8953,79 @@ For those with an active lifestyle, the building provides bike storage, allowing
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638211377881776015.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
     </media>
   </property>
+  <property type="rental" status="active" id="2293" url="https://myspacenyc.cazamio.com/apartments/687-Driggs-Ave-Unit-3L-Brooklyn-NY-11211-2293">
+    <location>
+      <address>687 Driggs Ave</address>
+      <apartment>3L</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11211</zipcode>
+      <neighborhood>Williamsburg</neighborhood>
+    </location>
+    <details>
+      <status>Vacant</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>Broker's Fee</pay_type>
+      <price>5300</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>2</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>Jun-01-2023</availableOn>
+      <description>Luxurious 2 bedroom/1 Bathroom ASAP move-in in Prime Williamsburg!
+
+Subway: 5 minute walk to Bedford L Train or Marcy J or M Train, 10 minutes to the city.
+
+Apartments like this won?t last long so schedule a private viewing asap!
+
+Features:
+? Natural Light Throughout w/Huge Windows
+? Washer/Dryer in unit
+? Dishwasher
+? Garage Parking
+? Roof Deck with Amazing views of the city
+? Elevator Building
+? Guarantors Welcome
+? Pet Friendly</description>
+      <propertyType>rental</propertyType>
+      <owner_company_name>NewHudson</owner_company_name>
+      <amenities>
+        <pets>Cats only, All pets allowed</pets>
+        <other>Hardwood Floors, Dishwasher, Washer/Dryer In Unit, Central A/C, Private Roof Deck, Roof Access, Balcony/Terrace</other>
+      </amenities>
+    </details>
+    <agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+      <media>
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806969363248.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806973821049.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806970783172.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806978129467.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806977004386.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806979364071.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806980897843.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806964786185.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806972749354.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806966550659.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806968052746.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806975720474.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
+      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638170806981980991.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
+    </media>
+  </property>
   <property type="rental" status="active" id="2258" url="https://myspacenyc.cazamio.com/apartments/1507-Saint-Johns-Place-Unit-D2-Brooklyn-NY-11213-2258">
     <location>
       <address>1507 Saint Johns Place</address>
@@ -10882,13 +10955,13 @@ WindowsTons of Natural Light!Pet Friendly</description>
       <status>Occupied</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>No Fee</pay_type>
-      <price>1850</price>
+      <price>2700</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
-      <bedrooms>0</bedrooms>
+      <bedrooms>2</bedrooms>
       <totalrooms>0</totalrooms>
-      <bathrooms>1</bathrooms>
+      <bathrooms>1.5</bathrooms>
       <availableOn>Jul-01-2023</availableOn>
       <description>Renovated studios with large balcony!
 -Access to backyard
@@ -11781,7 +11854,7 @@ Contact me for a showing today!</description>
       <neighborhood>Ditmars Steinway</neighborhood>
     </location>
     <details>
-      <status>Vacant</status>
+      <status>Deposit received</status>
       <apartment_type>single-family</apartment_type>
       <pay_type>Broker's Fee</pay_type>
       <price>2650</price>
