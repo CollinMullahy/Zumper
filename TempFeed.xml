@@ -1304,7 +1304,7 @@ First security and fee</description>
     <details>
       <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
-      <pay_type>Broker's Fee</pay_type>
+      <pay_type>No Fee</pay_type>
       <price>2750</price>
       <featured>no</featured>
       <rental_term>12 months</rental_term>
@@ -1709,7 +1709,7 @@ Reach out to schedule a showing!</description>
       <neighborhood>Prospect Lefferts Gardens</neighborhood>
     </location>
     <details>
-      <status>Occupied</status>
+      <status>Deposit received</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>Broker's Fee</pay_type>
       <price>2394</price>
