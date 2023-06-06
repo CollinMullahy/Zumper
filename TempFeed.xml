@@ -2512,7 +2512,7 @@ Pet Friendly</description>
     <details>
       <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
-      <pay_type>No Fee</pay_type>
+      <pay_type>Broker's Fee</pay_type>
       <price>2300</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
@@ -2580,7 +2580,7 @@ Available now</description>
     <details>
       <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
-      <pay_type>No Fee</pay_type>
+      <pay_type>Broker's Fee</pay_type>
       <price>2118</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
@@ -2643,7 +2643,7 @@ Available now</description>
     <details>
       <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
-      <pay_type>No Fee</pay_type>
+      <pay_type>Broker's Fee</pay_type>
       <price>1866</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
@@ -6945,7 +6945,7 @@ Pets OK</description>
       <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>No Fee</pay_type>
-      <price>5400</price>
+      <price>5250</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
@@ -7022,17 +7022,18 @@ Pets OK</description>
       <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>No Fee</pay_type>
-      <price>3600</price>
+      <price>3500</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
       <bedrooms>1</bedrooms>
       <totalrooms>0</totalrooms>
-      <bathrooms>1</bathrooms>
+      <bathrooms>2</bathrooms>
       <availableOn>May-27-2023</availableOn>
-      <description>1 bed 1 bath in new development!
+      <description>1 bed 2bath in new development!
 
 - 1 bedroom
+- 2 full bath
 - washer/dryer in unit
 - central AC
 - dishwasher
