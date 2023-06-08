@@ -717,7 +717,7 @@ No broker fee</description>
       <neighborhood>Williamsburg</neighborhood>
     </location>
     <details>
-      <status>Vacant</status>
+      <status>Deposit received</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>No Fee</pay_type>
       <price>2875</price>
@@ -984,7 +984,7 @@ Small pets welcome</description>
       <neighborhood>Prospect Park South</neighborhood>
     </location>
     <details>
-      <status>Vacant</status>
+      <status>Deposit received</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>Broker's Fee</pay_type>
       <price>2637</price>
@@ -9454,70 +9454,6 @@ If you're seeking a comfortable and well-located 1-bedroom apartment in Brooklyn
       </amenities>
     </details>
     <media />
-  </property>
-  <property type="rental" status="active" id="2280" url="https://myspacenyc.cazamio.com/apartments/263-Marion-St-Unit-1R-Brooklyn-NY-11233-2280">
-    <location>
-      <address>263 Marion St</address>
-      <apartment>1R</apartment>
-      <city>Brooklyn</city>
-      <state>NY</state>
-      <zipcode>11233</zipcode>
-      <neighborhood>Bedford Stuyvesant</neighborhood>
-    </location>
-    <details>
-      <status>Occupied</status>
-      <apartment_type>multi-family</apartment_type>
-      <pay_type>Broker's Fee</pay_type>
-      <price>1830</price>
-      <featured>no</featured>
-      <rental_term>No Rental Term</rental_term>
-      <utilities>No Utils Included</utilities>
-      <bedrooms>1</bedrooms>
-      <totalrooms>0</totalrooms>
-      <bathrooms>1</bathrooms>
-      <availableOn>Jul-01-2023</availableOn>
-      <description>1 bedroom/1 bathroom in Bed Stuy! 
-
-1st floor walk up building.
-Good location near the Ralph Ave A &amp; C subway,
-Many shops cafes &amp; restaurants all in the area.
-Modern kitchen &amp; Modern Bathroom,
-Hardwood floors
-Heat &amp; hot water included</description>
-      <propertyType>rental</propertyType>
-      <owner_company_name>PSSmgmt</owner_company_name>
-      <amenities>
-        <pets />
-      </amenities>
-    </details>
-    <agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-      <media>
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346538939021.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346548139119.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346555119500.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346562540913.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346570370638.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346578960347.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346584520100.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346590946769.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346595776139.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346602242911.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174346570970180.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174348112891613.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
-    </media>
   </property>
   <property type="rental" status="active" id="2178" url="https://myspacenyc.cazamio.com/apartments/924-Metropolitan-Ave-Unit-102-Brooklyn-NY-11211-2178">
     <location>
