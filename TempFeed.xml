@@ -855,7 +855,7 @@ Small pets welcome</description>
       <neighborhood>Prospect Park South</neighborhood>
     </location>
     <details>
-      <status>Deposit received</status>
+      <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>Broker's Fee</pay_type>
       <price>2637</price>
@@ -2012,7 +2012,7 @@ Fitness Center
       <neighborhood>Brownsville</neighborhood>
     </location>
     <details>
-      <status>Deposit received</status>
+      <status>Occupied</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>Broker's Fee</pay_type>
       <price>2530</price>
@@ -2189,74 +2189,6 @@ Reach out to schedule a showing!</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638185549674781543.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
     </media>
   </property>
-  <property type="rental" status="active" id="2323" url="https://myspacenyc.cazamio.com/apartments/330-Lewis-Ave-Unit-2B-Brooklyn-NY-11221-2323">
-    <location>
-      <address>330 Lewis Ave</address>
-      <apartment>2B</apartment>
-      <city>Brooklyn</city>
-      <state>NY</state>
-      <zipcode>11221</zipcode>
-      <neighborhood>Bedford Stuyvesant</neighborhood>
-    </location>
-    <details>
-      <status>Deposit received</status>
-      <apartment_type>multi-family</apartment_type>
-      <pay_type>Broker's Fee</pay_type>
-      <price>2300</price>
-      <featured>no</featured>
-      <rental_term>No Rental Term</rental_term>
-      <utilities>No Utils Included</utilities>
-      <bedrooms>1</bedrooms>
-      <totalrooms>0</totalrooms>
-      <bathrooms>1</bathrooms>
-      <availableOn>Jun-06-2023</availableOn>
-      <description>Newly renovated 1 bedroom in great location!
-
-- hardwood floors
-- dishwasher
-- exposed brick
-- newly renovated
-- big bedroom
-- open living concept
-
-A,C, and G trains nearby. Saraghina, Peaches, Beso Bar, Wine Therapy, all shops in the SOLA area at your doorstep.
-
-Cats only, no dogs.
-First and security
-Available now</description>
-      <propertyType>rental</propertyType>
-      <owner_company_name>MGAR</owner_company_name>
-      <amenities>
-        <pets />
-        <other>Dishwasher, Hardwood Floors, Exposed Brick</other>
-      </amenities>
-    </details>
-    <agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-      <media>
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541915139511.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541916676986.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541912047834.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541918927896.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541919956885.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541910737945.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541913143064.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541914171258.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216541917978883.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-    </media>
-  </property>
   <property type="rental" status="active" id="2324" url="https://myspacenyc.cazamio.com/apartments/344-Gates-Ave-Unit-3D-Brooklyn-NY-11216-2324">
     <location>
       <address>344 Gates Ave</address>
@@ -2318,62 +2250,6 @@ Available now</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216548957113005.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216548959815047.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216548961137364.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-    </media>
-  </property>
-  <property type="rental" status="active" id="2325" url="https://myspacenyc.cazamio.com/apartments/57-Herkimer-St-Unit-510-Brooklyn-NY-11216-2325">
-    <location>
-      <address>57 Herkimer St</address>
-      <apartment>510</apartment>
-      <city>Brooklyn</city>
-      <state>NY</state>
-      <zipcode>11216</zipcode>
-      <neighborhood>Bedford Stuyvesant</neighborhood>
-    </location>
-    <details>
-      <status>Deposit received</status>
-      <apartment_type>multi-family</apartment_type>
-      <pay_type>Broker's Fee</pay_type>
-      <price>1866</price>
-      <featured>no</featured>
-      <rental_term>No Rental Term</rental_term>
-      <utilities>No Utils Included</utilities>
-      <bedrooms>0</bedrooms>
-      <totalrooms>0</totalrooms>
-      <bathrooms>1</bathrooms>
-      <availableOn>Jun-06-2023</availableOn>
-      <description>Great new studio in prime location!
-
-- tons of natural light
-- dishwasher
-- newly renovated</description>
-      <propertyType>rental</propertyType>
-      <owner_company_name>MGAR</owner_company_name>
-      <amenities>
-        <pets />
-        <other>Dishwasher, Hardwood Floors</other>
-      </amenities>
-    </details>
-    <agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-      <media>
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216555565594989.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216555564518939.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216555566584057.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216555563331830.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216555568077213.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-      <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638216555569045804.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
     </media>
   </property>
   <property type="rental" status="active" id="2313" url="https://myspacenyc.cazamio.com/apartments/118A-Schaefer-St-Unit-2-Brooklyn-NY-11207-2313">
@@ -10608,7 +10484,7 @@ Don't miss your chance to see this remarkable four-bedroom duplex before it's go
       <status>Vacant</status>
       <apartment_type>duplex</apartment_type>
       <pay_type>No Fee</pay_type>
-      <price>2400</price>
+      <price>2300</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
@@ -10735,7 +10611,7 @@ Email if you?re interested or call before it?s gone!</description>
       <status>Vacant</status>
       <apartment_type>multi-family</apartment_type>
       <pay_type>No Fee</pay_type>
-      <price>2550</price>
+      <price>2499</price>
       <featured>no</featured>
       <rental_term>No Rental Term</rental_term>
       <utilities>No Utils Included</utilities>
