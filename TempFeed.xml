@@ -5978,56 +5978,6 @@ Won't last CONTACT US ASAP </description>
     </details>
     <media />
   </property>
-  <property type="rental" status="active" id="2048" url="https://myspacenyc.cazamio.com/apartments/754-Grand-Street-Unit-2B-Brooklyn-NY-11211-2048">
-    <location>
-      <address>754 Grand Street</address>
-      <apartment>2B</apartment>
-      <city>Brooklyn</city>
-      <state>NY</state>
-      <zipcode>11211</zipcode>
-      <neighborhood>Williamsburg</neighborhood>
-    </location>
-    <details>
-      <status>Vacant</status>
-      <apartment_type>multi-family</apartment_type>
-      <pay_type>No Fee</pay_type>
-      <price>6000</price>
-      <featured>no</featured>
-      <rental_term>No Rental Term</rental_term>
-      <utilities>No Utils Included</utilities>
-      <bedrooms>3</bedrooms>
-      <totalrooms>0</totalrooms>
-      <bathrooms>2</bathrooms>
-      <availableOn>Apr-20-2023</availableOn>
-      <description>Virtual tour available 
-First and security only NO FEE 
-
-Amazing prime Williamsburg location 
-Tons of cool places to eat drink and shops steps from home 
-Near L and JMZ lines 
-
-Brand new gut renovation! 
-3BR 2BA 
-Stainless steel appliances 
-Dishwasher 
-Central heat and air 
-Bluetooth speakers throughout! 
-
-Building boasts roof access, courtyard, virtual doorman and laundry! 
-
-Pets ok! 
-
-First and security only - NO FEE 
-Won't last CONTACT US ASAP </description>
-      <propertyType>rental</propertyType>
-      <owner_company_name>Jack</owner_company_name>
-      <amenities>
-        <pets>Cats only, Small pets allowed, All pets allowed</pets>
-        <other>Central A/C, Shared Outdoor Space, Dishwasher</other>
-      </amenities>
-    </details>
-    <media />
-  </property>
   <property type="rental" status="active" id="2049" url="https://myspacenyc.cazamio.com/apartments/754-Grand-Street-Unit-2F-Brooklyn-NY-11211-2049">
     <location>
       <address>754 Grand Street</address>
@@ -6387,6 +6337,126 @@ Won't last CONTACT US ASAP </description>
       <amenities>
         <pets>Cats only, All pets allowed</pets>
         <other>Duplex, Backyard, Central A/C, Dishwasher</other>
+      </amenities>
+    </details>
+    <media />
+  </property>
+  <property type="rental" status="active" id="2373" url="https://myspacenyc.cazamio.com/apartments/340-Irving-Ave-Unit-4A-Brooklyn-NY-11237-2373">
+    <location>
+      <address>340 Irving Ave</address>
+      <apartment>4A</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11237</zipcode>
+      <neighborhood>Bushwick</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>3800</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>3</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>Jul-01-2023</availableOn>
+      <description />
+      <propertyType>rental</propertyType>
+      <owner_company_name>Jack</owner_company_name>
+      <amenities>
+        <pets />
+      </amenities>
+    </details>
+    <media />
+  </property>
+  <property type="rental" status="active" id="2374" url="https://myspacenyc.cazamio.com/apartments/565-Evergreen-Ave-Unit-2B-Brooklyn-NY-11221-2374">
+    <location>
+      <address>565 Evergreen Ave</address>
+      <apartment>2B</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11221</zipcode>
+      <neighborhood>Bushwick</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>4200</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>4</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1.5</bathrooms>
+      <availableOn>Jul-01-2023</availableOn>
+      <description />
+      <propertyType>rental</propertyType>
+      <owner_company_name>Jack</owner_company_name>
+      <amenities>
+        <pets />
+      </amenities>
+    </details>
+    <media />
+  </property>
+  <property type="rental" status="active" id="2375" url="https://myspacenyc.cazamio.com/apartments/561-4th-Ave-Unit-3F-Brooklyn-NY-11215-2375">
+    <location>
+      <address>561 4th Ave</address>
+      <apartment>3F</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11215</zipcode>
+      <neighborhood>Park Slope</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>5000</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>3</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>2</bathrooms>
+      <availableOn>Jul-01-2023</availableOn>
+      <description />
+      <propertyType>rental</propertyType>
+      <owner_company_name>Jack</owner_company_name>
+      <amenities>
+        <pets />
+      </amenities>
+    </details>
+    <media />
+  </property>
+  <property type="rental" status="active" id="2376" url="https://myspacenyc.cazamio.com/apartments/561-4th-Ave-Unit-3B-Brooklyn-NY-11215-2376">
+    <location>
+      <address>561 4th Ave</address>
+      <apartment>3B</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11215</zipcode>
+      <neighborhood>Park Slope</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>5000</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>3</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>2</bathrooms>
+      <availableOn>Jul-01-2023</availableOn>
+      <description />
+      <propertyType>rental</propertyType>
+      <owner_company_name>Jack</owner_company_name>
+      <amenities>
+        <pets />
       </amenities>
     </details>
     <media />
