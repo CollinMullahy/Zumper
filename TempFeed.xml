@@ -1165,6 +1165,36 @@ Call or text to see right away!</description>
       <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638238346826309934.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=XVGm7O%2BLJt9BoMoyDPbzl39Bko9oGd%2F05pl%2BmL%2BpHSc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
     </media>
   </property>
+  <property type="rental" status="active" id="2468" url="https://myspacenyc.cazamio.com/apartments/618-Bushwick-Ave-Unit-207-Brooklyn-NY-11206-2468">
+    <location>
+      <address>618 Bushwick Ave</address>
+      <apartment>207</apartment>
+      <city>Brooklyn</city>
+      <state>NY</state>
+      <zipcode>11206</zipcode>
+      <neighborhood>Bushwick</neighborhood>
+    </location>
+    <details>
+      <status>Occupied</status>
+      <apartment_type>multi-family</apartment_type>
+      <pay_type>No Fee</pay_type>
+      <price>3399</price>
+      <featured>no</featured>
+      <rental_term>No Rental Term</rental_term>
+      <utilities>No Utils Included</utilities>
+      <bedrooms>1</bedrooms>
+      <totalrooms>0</totalrooms>
+      <bathrooms>1</bathrooms>
+      <availableOn>Aug-01-2023</availableOn>
+      <description />
+      <propertyType>rental</propertyType>
+      <owner_company_name>ccm</owner_company_name>
+      <amenities>
+        <pets />
+      </amenities>
+    </details>
+    <media />
+  </property>
   <property type="rental" status="active" id="2368" url="https://myspacenyc.cazamio.com/apartments/1340-Gates-Avenue-Unit-2-Brooklyn-NY-11221-2368">
     <location>
       <address>1340 Gates Avenue</address>
