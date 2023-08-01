@@ -1288,55 +1288,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638254089870085413.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2585" url="https://myspacenyc.cazamio.com/apartments/566-Wilson-Avenue-Unit-Ph1-Brooklyn-NY-11207-2585">
-      <location>
-        <address>566 Wilson Avenue</address>
-        <apartment>Ph1</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11207</zipcode>
-        <neighborhood>Bushwick</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>3200</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>2</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Jul-21-2023</availableOn>
-        <description />
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets />
-        </amenities>
-      </details>
-      <agents>
-        <agent id="146">
-              <Name>The Belle Piper Team</Name>
-              <Company>MySpace NYC</Company>
-              <Email>belle.msnyc@myspacenyc.com</Email>
-              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
-              <Phone_Numbers>
-                <Main>646-351-1198</Main>
-                <Office>646.647.3326</Office>
-                <Cell>646-351-1198</Cell>
-                <Fax>718.399.3444</Fax>
-              </Phone_Numbers>
-            </agent>
-         </agents>
-        <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255462904626984.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255462977576022.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255463044413727.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255463105931708.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-      </media>
-    </property>
   <property type="rental" status="active" id="2538" url="https://myspacenyc.cazamio.com/apartments/566-Wilson-Avenue-Unit-201-Brooklyn-NY-11207-2538">
       <location>
         <address>566 Wilson Avenue</address>
@@ -1440,6 +1391,55 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638254754598968140.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638254754663065030.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638254754727144505.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+      </media>
+    </property>
+  <property type="rental" status="active" id="2585" url="https://myspacenyc.cazamio.com/apartments/566-Wilson-Avenue-Unit-Ph1-Brooklyn-NY-11207-2585">
+      <location>
+        <address>566 Wilson Avenue</address>
+        <apartment>Ph1</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11207</zipcode>
+        <neighborhood>Bushwick</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>3200</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>2</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Jul-21-2023</availableOn>
+        <description />
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255462904626984.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255462977576022.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255463044413727.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638255463105931708.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="2514" url="https://myspacenyc.cazamio.com/apartments/323-49th-St-Unit-2b-Brooklyn-NY-11220-2514">
@@ -2598,10 +2598,10 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638206277008602587.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2591" url="https://myspacenyc.cazamio.com/apartments/60-80-Myrtle-Avenue-Unit-3c-Queens-NY-11385-2591">
+  <property type="rental" status="active" id="2608" url="https://myspacenyc.cazamio.com/apartments/60-80-Myrtle-Avenue-Unit-2H-Queens-NY-11385-2608">
       <location>
         <address>60-80 Myrtle Avenue</address>
-        <apartment>3c</apartment>
+        <apartment>2H</apartment>
         <city>Queens</city>
         <state>NY</state>
         <zipcode>11385</zipcode>
@@ -2611,14 +2611,14 @@
         <status>Occupied</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>2650</price>
+        <price>3200</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
-        <bedrooms>1</bedrooms>
+        <bedrooms>2</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>1</bathrooms>
-        <availableOn>Aug-01-2023</availableOn>
+        <availableOn>Sep-01-2023</availableOn>
         <description>Welcome to Ridgewoods most luxury building! Each apartment features stainless steel appliances, glossy dark hardwood floors, high ceilings, and plenty of natural sunlight. The building is complete with on site laundry, and plenty of great outdoor common areas including a rooftop with sweeping skyline views. Cancel that gym membership as well because you have your own right on site! Available 24/7 : NO FEE (More photos coming soon) Don?t miss this!!
   
   Hardwood Floors
@@ -2681,10 +2681,10 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638206277013939699.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="17" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2608" url="https://myspacenyc.cazamio.com/apartments/60-80-Myrtle-Avenue-Unit-2H-Queens-NY-11385-2608">
+  <property type="rental" status="active" id="2591" url="https://myspacenyc.cazamio.com/apartments/60-80-Myrtle-Avenue-Unit-3c-Queens-NY-11385-2591">
       <location>
         <address>60-80 Myrtle Avenue</address>
-        <apartment>2H</apartment>
+        <apartment>3c</apartment>
         <city>Queens</city>
         <state>NY</state>
         <zipcode>11385</zipcode>
@@ -2694,14 +2694,14 @@
         <status>Occupied</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>3200</price>
+        <price>2650</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
-        <bedrooms>2</bedrooms>
+        <bedrooms>1</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>1</bathrooms>
-        <availableOn>Sep-01-2023</availableOn>
+        <availableOn>Aug-01-2023</availableOn>
         <description>Welcome to Ridgewoods most luxury building! Each apartment features stainless steel appliances, glossy dark hardwood floors, high ceilings, and plenty of natural sunlight. The building is complete with on site laundry, and plenty of great outdoor common areas including a rooftop with sweeping skyline views. Cancel that gym membership as well because you have your own right on site! Available 24/7 : NO FEE (More photos coming soon) Don?t miss this!!
   
   Hardwood Floors
@@ -3286,34 +3286,34 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638200354725322262.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="16" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2508" url="https://myspacenyc.cazamio.com/apartments/2-Stanwix-St-Unit-3R-Brooklyn-NY-11206-2508">
+  <property type="rental" status="active" id="2587" url="https://myspacenyc.cazamio.com/apartments/2-Stanwix-St-Unit-2B-Brooklyn-NY-11206-2587">
       <location>
         <address>2 Stanwix St</address>
-        <apartment>3R</apartment>
+        <apartment>2B</apartment>
         <city>Brooklyn</city>
         <state>NY</state>
         <zipcode>11206</zipcode>
         <neighborhood>Bushwick</neighborhood>
       </location>
       <details>
-        <status>Deposit received</status>
+        <status>Occupied</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>4050</price>
+        <price>4200</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
         <bedrooms>3</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>2</bathrooms>
-        <availableOn>Jul-31-2023</availableOn>
-        <description>Welcome to 2 Stanwix in Brooklyn, NY! This stunning 3-bedroom, 2-bathroom apartment offers a spacious and bright living space, perfect for comfortable urban living. Conveniently located just two blocks away from the Myrtle Av Station (J + M + Z) and within half a mile of the Morgan Av Station (L), this newly renovated unit is situated at the border of Bushwick and Williamsburg, offering the best of both vibrant neighborhoods. With its prime location, you can reach Manhattan in just 20 minutes.
+        <availableOn>Oct-01-2023</availableOn>
+        <description>Welcome to 2 Stanwix  in Brooklyn, NY! This stunning 3-bedroom, 2-bathroom apartment offers a spacious and bright living space, perfect for comfortable urban living. Conveniently located just two blocks away from the Myrtle Av Station (J + M + Z) and within half a mile of the Morgan Av Station (L), this newly renovated unit is situated at the border of Bushwick and Williamsburg, offering the best of both vibrant neighborhoods. With its prime location, you can reach Manhattan in just 20 minutes.
   
   Inside the apartment, you'll find modern amenities that enhance your lifestyle. The kitchen features a dishwasher, making meal preparation and cleanup a breeze. Whether you're a foodie or enjoy hosting dinner parties, this convenient appliance adds a touch of convenience to your daily routine.
   
   Furthermore, pet owners will be delighted to know that pets are allowed in the building, making it a welcoming and inclusive community for furry friends. The building itself offers additional amenities to enhance your living experience. Laundry facilities are conveniently located within the building, ensuring you can easily take care of your laundry needs without leaving the premises. Additionally, a virtual doorman service provides an added layer of security and convenience, allowing you to feel safe and secure in your new home.
   
-  With its spacious layout, desirable location, and modern amenities, 2 Stanwix 2R/2A is the perfect place to call home for those seeking a comfortable and convenient living experience in Brooklyn, NY.</description>
+  With its spacious layout, desirable location, and modern amenities, 2 Stanwix is the perfect place to call home for those seeking a comfortable and convenient living experience in Brooklyn, NY.</description>
         <propertyType>rental</propertyType>
         
         <amenities>
@@ -3348,34 +3348,34 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638218350013271022.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2587" url="https://myspacenyc.cazamio.com/apartments/2-Stanwix-St-Unit-2B-Brooklyn-NY-11206-2587">
+  <property type="rental" status="active" id="2508" url="https://myspacenyc.cazamio.com/apartments/2-Stanwix-St-Unit-3R-Brooklyn-NY-11206-2508">
       <location>
         <address>2 Stanwix St</address>
-        <apartment>2B</apartment>
+        <apartment>3R</apartment>
         <city>Brooklyn</city>
         <state>NY</state>
         <zipcode>11206</zipcode>
         <neighborhood>Bushwick</neighborhood>
       </location>
       <details>
-        <status>Occupied</status>
+        <status>Deposit received</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>4200</price>
+        <price>4050</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
         <bedrooms>3</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>2</bathrooms>
-        <availableOn>Oct-01-2023</availableOn>
-        <description>Welcome to 2 Stanwix  in Brooklyn, NY! This stunning 3-bedroom, 2-bathroom apartment offers a spacious and bright living space, perfect for comfortable urban living. Conveniently located just two blocks away from the Myrtle Av Station (J + M + Z) and within half a mile of the Morgan Av Station (L), this newly renovated unit is situated at the border of Bushwick and Williamsburg, offering the best of both vibrant neighborhoods. With its prime location, you can reach Manhattan in just 20 minutes.
+        <availableOn>Jul-31-2023</availableOn>
+        <description>Welcome to 2 Stanwix in Brooklyn, NY! This stunning 3-bedroom, 2-bathroom apartment offers a spacious and bright living space, perfect for comfortable urban living. Conveniently located just two blocks away from the Myrtle Av Station (J + M + Z) and within half a mile of the Morgan Av Station (L), this newly renovated unit is situated at the border of Bushwick and Williamsburg, offering the best of both vibrant neighborhoods. With its prime location, you can reach Manhattan in just 20 minutes.
   
   Inside the apartment, you'll find modern amenities that enhance your lifestyle. The kitchen features a dishwasher, making meal preparation and cleanup a breeze. Whether you're a foodie or enjoy hosting dinner parties, this convenient appliance adds a touch of convenience to your daily routine.
   
   Furthermore, pet owners will be delighted to know that pets are allowed in the building, making it a welcoming and inclusive community for furry friends. The building itself offers additional amenities to enhance your living experience. Laundry facilities are conveniently located within the building, ensuring you can easily take care of your laundry needs without leaving the premises. Additionally, a virtual doorman service provides an added layer of security and convenience, allowing you to feel safe and secure in your new home.
   
-  With its spacious layout, desirable location, and modern amenities, 2 Stanwix is the perfect place to call home for those seeking a comfortable and convenient living experience in Brooklyn, NY.</description>
+  With its spacious layout, desirable location, and modern amenities, 2 Stanwix 2R/2A is the perfect place to call home for those seeking a comfortable and convenient living experience in Brooklyn, NY.</description>
         <propertyType>rental</propertyType>
         
         <amenities>
@@ -9316,10 +9316,10 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638236404727224887.png?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2554" url="https://myspacenyc.cazamio.com/apartments/1365-St-Johns-Pl-Unit-1B-Brooklyn-NY-11213-2554">
+  <property type="rental" status="active" id="2426" url="https://myspacenyc.cazamio.com/apartments/1365-St-Johns-Pl-Unit-2a-Brooklyn-NY-11213-2426">
       <location>
         <address>1365 St Johns Pl</address>
-        <apartment>1B</apartment>
+        <apartment>2a</apartment>
         <city>Brooklyn</city>
         <state>NY</state>
         <zipcode>11213</zipcode>
@@ -9327,16 +9327,16 @@
       </location>
       <details>
         <status>Occupied</status>
-        <apartment_type>duplex</apartment_type>
+        <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>4000</price>
+        <price>3200</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
         <bedrooms>3</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>1</bathrooms>
-        <availableOn>Aug-31-2023</availableOn>
+        <availableOn>Sep-01-2023</availableOn>
         <description>The open-plan living and dining area is spacious and airy, with plenty of room for entertaining and relaxation. The kitchen has modern appliances, including a gas stove, refrigerator, and dishwasher, and features plenty of counter and cabinet space.
   
   The bedroom is generously sized, with ample space for a queen-sized bed and other furniture. The bathroom has been recently updated with new fixtures and finishes, including a modern vanity and a shower/tub combo.
@@ -9377,10 +9377,10 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638188037859744662.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2426" url="https://myspacenyc.cazamio.com/apartments/1365-St-Johns-Pl-Unit-2a-Brooklyn-NY-11213-2426">
+  <property type="rental" status="active" id="2554" url="https://myspacenyc.cazamio.com/apartments/1365-St-Johns-Pl-Unit-1B-Brooklyn-NY-11213-2554">
       <location>
         <address>1365 St Johns Pl</address>
-        <apartment>2a</apartment>
+        <apartment>1B</apartment>
         <city>Brooklyn</city>
         <state>NY</state>
         <zipcode>11213</zipcode>
@@ -9388,16 +9388,16 @@
       </location>
       <details>
         <status>Occupied</status>
-        <apartment_type>multi-family</apartment_type>
+        <apartment_type>duplex</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>3200</price>
+        <price>4000</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
         <bedrooms>3</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>1</bathrooms>
-        <availableOn>Sep-01-2023</availableOn>
+        <availableOn>Aug-31-2023</availableOn>
         <description>The open-plan living and dining area is spacious and airy, with plenty of room for entertaining and relaxation. The kitchen has modern appliances, including a gas stove, refrigerator, and dishwasher, and features plenty of counter and cabinet space.
   
   The bedroom is generously sized, with ample space for a queen-sized bed and other furniture. The bathroom has been recently updated with new fixtures and finishes, including a modern vanity and a shower/tub combo.
@@ -9779,6 +9779,76 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638230358345645008.png?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638230358549077499.png?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="15" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638230358899585340.png?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="16" description="" />
+      </media>
+    </property>
+  <property type="rental" status="active" id="2421" url="https://myspacenyc.cazamio.com/apartments/385-Chauncey-St-Unit-2L-Brooklyn-NY-11233-2421">
+      <location>
+        <address>385 Chauncey St</address>
+        <apartment>2L</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11233</zipcode>
+        <neighborhood>Stuyvesant Heights</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>3999</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>4</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1.5</bathrooms>
+        <availableOn>Aug-01-2023</availableOn>
+        <description>Stuyvesant Heights is home to some of BedStuy?s most beloved restaurant, bar, and coffee choices right off Malcolm X Blvd! This lively neighborhood will cater to all of your needs and more. With beautiful brownstones lining the streets, full size grocers, bodega where they?ll know you by name, parks, gyms, locally owned small businesses, and the convenience of Broadway just down the block, you get to enjoy the true history and culture of BedStuy, Brooklyn. Make no sacrifices and enjoy your new home!
+  
+  Conveniently located off the A, C, and J trains as well as the B15, B26, B46, B47, B52 and Q24 bus routes.
+  
+  FEATURES:
+  Hardwood Floors
+  Stainless Steel Kitchen
+  Dishwasher
+  Exposed Brick Interior
+  Shared Laundry Room
+  Shared Roof Deck
+  Pet Friendly</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+          <other>Dishwasher, Hardwood Floors, Exposed Brick</other>
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817757676821.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817764325073.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817770803432.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817779860401.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817786248380.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817793358738.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817799227037.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817805718030.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817818523710.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817826783782.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817832543258.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817839458157.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1996_638234817845940454.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="2605" url="https://myspacenyc.cazamio.com/apartments/634-Wilson-Ave-Unit-3L-Brooklyn-NY-11207-2605">
