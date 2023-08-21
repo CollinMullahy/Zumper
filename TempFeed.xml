@@ -313,7 +313,7 @@
         <neighborhood>Bushwick</neighborhood>
       </location>
       <details>
-        <status>Occupied</status>
+        <status>Deposit received</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>Broker's Fee</pay_type>
         <price>1997</price>
@@ -1443,7 +1443,7 @@
         <neighborhood>Williamsburg</neighborhood>
       </location>
       <details>
-        <status>Vacant</status>
+        <status>Deposit received</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
         <price>4767</price>
