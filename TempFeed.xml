@@ -5662,68 +5662,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638279743156930936.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2728" url="https://myspacenyc.cazamio.com/apartments/247-46-Street-Unit-2L-Brooklyn-New-York-11220-2728">
-      <location>
-        <address>247 46 Street</address>
-        <apartment>2L</apartment>
-        <city>Brooklyn</city>
-        <state>New York</state>
-        <zipcode>11220</zipcode>
-        <neighborhood>Sunset Park</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>2900</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>3</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Aug-25-2023</availableOn>
-        <description>Newly renovated apartment in Sunset Park! </description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>Small pets allowed</pets>
-          <other>Hardwood Floors</other>
-        </amenities>
-      </details>
-      <media />
-    </property>
-  <property type="rental" status="active" id="2729" url="https://myspacenyc.cazamio.com/apartments/247-46-Street-Unit-4L-Brooklyn-New-York-11220-2729">
-      <location>
-        <address>247 46 Street</address>
-        <apartment>4L</apartment>
-        <city>Brooklyn</city>
-        <state>New York</state>
-        <zipcode>11220</zipcode>
-        <neighborhood>Sunset Park</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>2900</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>3</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Aug-24-2023</availableOn>
-        <description>Newly renovated apartment in Sunset Park! </description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>Small pets allowed</pets>
-          <other>Hardwood Floors</other>
-        </amenities>
-      </details>
-      <media />
-    </property>
   <property type="rental" status="active" id="2655" url="https://myspacenyc.cazamio.com/apartments/173-Jefferson-Street-Unit-1-Brooklyn-NY-11206-2655">
       <location>
         <address>173 Jefferson Street</address>
@@ -5869,17 +5807,17 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638271937802826284.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="20" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2657" url="https://myspacenyc.cazamio.com/apartments/173-Jefferson-Street-Unit-1RR-Brooklyn-NY-11206-2657">
+  <property type="rental" status="active" id="2657" url="https://myspacenyc.cazamio.com/apartments/173-Jefferson-Street-Unit-1B-Brooklyn-NY-11206-2657">
       <location>
         <address>173 Jefferson Street</address>
-        <apartment>1RR</apartment>
+        <apartment>1B</apartment>
         <city>Brooklyn</city>
         <state>NY</state>
         <zipcode>11206</zipcode>
         <neighborhood>Bushwick</neighborhood>
       </location>
       <details>
-        <status>Vacant</status>
+        <status>Deposit received</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
         <price>4500</price>
@@ -6013,6 +5951,68 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638271914734558694.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638271914746722511.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="13" description="" />
       </media>
+    </property>
+  <property type="rental" status="active" id="2728" url="https://myspacenyc.cazamio.com/apartments/247-46-Street-Unit-2L-Brooklyn-New-York-11220-2728">
+      <location>
+        <address>247 46 Street</address>
+        <apartment>2L</apartment>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zipcode>11220</zipcode>
+        <neighborhood>Sunset Park</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>2900</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>3</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Aug-25-2023</availableOn>
+        <description>Newly renovated apartment in Sunset Park! </description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>Small pets allowed</pets>
+          <other>Hardwood Floors</other>
+        </amenities>
+      </details>
+      <media />
+    </property>
+  <property type="rental" status="active" id="2729" url="https://myspacenyc.cazamio.com/apartments/247-46-Street-Unit-4L-Brooklyn-New-York-11220-2729">
+      <location>
+        <address>247 46 Street</address>
+        <apartment>4L</apartment>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zipcode>11220</zipcode>
+        <neighborhood>Sunset Park</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>2900</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>3</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Aug-24-2023</availableOn>
+        <description>Newly renovated apartment in Sunset Park! </description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>Small pets allowed</pets>
+          <other>Hardwood Floors</other>
+        </amenities>
+      </details>
+      <media />
     </property>
   <property type="rental" status="active" id="1781" url="https://myspacenyc.cazamio.com/apartments/97-Varet-St-Unit-3B-Brooklyn-NY-11206-1781">
       <location>
@@ -7701,57 +7701,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638289236120943619.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="12825" url="https://myspacenyc.cazamio.com/apartments/2016-Regent-Pl-Unit-1G-Brooklyn-NY-11226-12825">
-      <location>
-        <address>2016 Regent Pl</address>
-        <apartment>1G</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11226</zipcode>
-        <neighborhood>Flatbush - Ditmas Park</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>Broker's Fee</pay_type>
-        <price>1800</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>0</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Aug-31-2023</availableOn>
-        <description>Virtual tours available! Not only is this studio / 1 Baths simply beautiful but it?s also located in one of the coolest and convenient neighborhoods! Ditmas is known for their breathtaking Victorian-style homes, and beautifully, well kept neighborhood streets. Take advantage of this reasonably priced pad! Enjoy local places to hangout like Hunger Pangs, Wheated, Sycamore, The Ox Tavern, The Farm, Milk and Honey, and Corthaiyou! Keep in mind, there are by far more cool places to check out in this charming neighborhood! Quick commute into Manhattan on the 2,3 or B,Q train lines! Don't forget about your endless options at Atlantic Terminal!</description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets />
-          <other>Hardwood Floors</other>
-        </amenities>
-      </details>
-      <agents>
-        <agent id="146">
-              <Name>The Belle Piper Team</Name>
-              <Company>MySpace NYC</Company>
-              <Email>belle.msnyc@myspacenyc.com</Email>
-              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
-              <Phone_Numbers>
-                <Main>646-351-1198</Main>
-                <Office>646.647.3326</Office>
-                <Cell>646-351-1198</Cell>
-                <Fax>718.399.3444</Fax>
-              </Phone_Numbers>
-            </agent>
-         </agents>
-        <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873030975173.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873051855677.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873037834136.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873045457948.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290872985062381.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-      </media>
-    </property>
   <property type="rental" status="active" id="12837" url="https://myspacenyc.cazamio.com/apartments/2016-Regent-Pl-Unit-2F-Brooklyn-NY-11226-12837">
       <location>
         <address>2016 Regent Pl</address>
@@ -7803,6 +7752,57 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638295221838585050.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638295221927055490.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638295222020575154.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+      </media>
+    </property>
+  <property type="rental" status="active" id="12825" url="https://myspacenyc.cazamio.com/apartments/2016-Regent-Pl-Unit-1G-Brooklyn-NY-11226-12825">
+      <location>
+        <address>2016 Regent Pl</address>
+        <apartment>1G</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11226</zipcode>
+        <neighborhood>Flatbush - Ditmas Park</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>Broker's Fee</pay_type>
+        <price>1800</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>0</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Aug-31-2023</availableOn>
+        <description>Virtual tours available! Not only is this studio / 1 Baths simply beautiful but it?s also located in one of the coolest and convenient neighborhoods! Ditmas is known for their breathtaking Victorian-style homes, and beautifully, well kept neighborhood streets. Take advantage of this reasonably priced pad! Enjoy local places to hangout like Hunger Pangs, Wheated, Sycamore, The Ox Tavern, The Farm, Milk and Honey, and Corthaiyou! Keep in mind, there are by far more cool places to check out in this charming neighborhood! Quick commute into Manhattan on the 2,3 or B,Q train lines! Don't forget about your endless options at Atlantic Terminal!</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+          <other>Hardwood Floors</other>
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873030975173.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873051855677.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873037834136.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290873045457948.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1997_638290872985062381.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="1652" url="https://myspacenyc.cazamio.com/apartments/310-Clarkson-Ave-Unit-305-Brooklyn-NY-11226-1652">
@@ -9222,32 +9222,41 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638234838427471113.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="16" description="" />
       </media>
     </property>
-  <property type="rental" status="active" id="2702" url="https://myspacenyc.cazamio.com/apartments/21-78-35th-Street-Unit-5-Queens-NY-11105-2702">
+  <property type="rental" status="active" id="2547" url="https://myspacenyc.cazamio.com/apartments/67-41-Burns-Street-Unit-129-Queens-NY-11375-2547">
       <location>
-        <address>21-78 35th Street</address>
-        <apartment>5</apartment>
+        <address>67-41 Burns Street</address>
+        <apartment>129</apartment>
         <city>Queens</city>
         <state>NY</state>
-        <zipcode>11105</zipcode>
-        <neighborhood>Ditmars Steinway</neighborhood>
+        <zipcode>11375</zipcode>
+        <neighborhood>Forest Hills</neighborhood>
       </location>
       <details>
-        <status>Occupied</status>
+        <status>Vacant</status>
         <apartment_type>single-family</apartment_type>
-        <pay_type>Broker's Fee</pay_type>
-        <price>2800</price>
+        <pay_type>No Fee</pay_type>
+        <price>2500</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
-        <bedrooms>2.5</bedrooms>
+        <bedrooms>2</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>1</bathrooms>
-        <availableOn>Sep-01-2023</availableOn>
-        <description />
+        <availableOn>Jul-13-2023</availableOn>
+        <description>Spacious 2 bedroom apartment in Forest Hills!
+  This beautiful APT features a HUGE living room area, kitchen with stainless steel appliances, dishwasher. The apt has 5 closets, including one walk-in closet. Plenty of natural light. Large bedroom fits a king size bed, small bedroom fits a queen size bed. Well maintained, stylish building. 
+  
+  Super live in.
+  Laundry in the building. 
+  Elevator building. 
+  Parking garage (waiting list)
+  
+  No pets allowed. Suggest to board approval. Heat, hot water and cooking gas included. 
+  Great price and location!</description>
         <propertyType>rental</propertyType>
         
         <amenities>
-          <pets>All pets allowed</pets>
+          <pets>No pets</pets>
           <other>Dishwasher</other>
         </amenities>
       </details>
@@ -9266,16 +9275,19 @@
             </agent>
          </agents>
         <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281467664239620.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281467724717486.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281467789268086.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281467854325248.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281467910180899.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281467962256591.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281468024006562.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281468087842236.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281468144017795.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638281468191071067.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978078214961.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978145419615.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978205073658.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978253003721.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978305869224.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978366521503.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978428911539.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978486161003.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978553159338.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978609550527.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978660070650.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978724369396.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978784652188.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="2547" url="https://myspacenyc.cazamio.com/apartments/67-41-Burns-Street-Unit-129-Queens-NY-11375-2547">
