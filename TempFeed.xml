@@ -923,29 +923,7 @@
           <other>Hardwood Floors, Stainless steel appliances</other>
         </amenities>
       </details>
-      <agents>
-        <agent id="146">
-              <Name>The Belle Piper Team</Name>
-              <Company>MySpace NYC</Company>
-              <Email>belle.msnyc@myspacenyc.com</Email>
-              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
-              <Phone_Numbers>
-                <Main>646-351-1198</Main>
-                <Office>646.647.3326</Office>
-                <Cell>646-351-1198</Cell>
-                <Fax>718.399.3444</Fax>
-              </Phone_Numbers>
-            </agent>
-         </agents>
-        <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638300598763742224.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638300598767391419.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638300598769928166.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638300598782083663.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638300598778797159.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638300598776301164.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638300598773418967.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-      </media>
+      <media />
     </property>
   <property type="rental" status="active" id="2704" url="https://myspacenyc.cazamio.com/apartments/39-Suydam-St-Unit-1B-Brooklyn-NY-11221-2704">
       <location>
@@ -2851,7 +2829,7 @@
         <bathrooms>1.5</bathrooms>
         <availableOn>Aug-31-2023</availableOn>
         <description>Recently renovated three-bedroom, one and a half bathroom residence located in the highly sought-after Boerum Hill area!
-  
+  HUGE PRIVATE TERRACE!
   No agent fees required.
   
   This exquisite home showcases exquisite design elements that are illuminated by an abundance of natural light. Every window offers picturesque views of the vibrant surrounding community.
@@ -2865,12 +2843,14 @@
   Pet-friendly policy, ensuring all family members are welcome
   Ideally situated mere steps away from BAM, Barclays Center, Whole Foods, Target, and the Atlantic Terminal
   Immediate access to an array of exceptional restaurants, boutiques, and lively bars.
+  
+  
   </description>
         <propertyType>rental</propertyType>
         
         <amenities>
           <pets />
-          <other>Washer/Dryer In Unit</other>
+          <other>Washer/Dryer In Unit, Private Outdoor Space</other>
         </amenities>
       </details>
       <agents>
