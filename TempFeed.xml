@@ -1637,6 +1637,69 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1995_638248023697845999.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=XVGm7O%2BLJt9BoMoyDPbzl39Bko9oGd%2F05pl%2BmL%2BpHSc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
       </media>
     </property>
+  <property type="rental" status="active" id="13195" url="https://myspacenyc.cazamio.com/apartments/323-49th-St-Unit-3A-Brooklyn-NY-11220-13195">
+      <location>
+        <address>323 49th St</address>
+        <apartment>3A</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11220</zipcode>
+        <neighborhood>Sunset Park</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>2450</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>1</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Oct-04-2023</availableOn>
+        <description>Virtual tours available! 
+  
+  Reside in gorgeous 1 BR / 1 Baths with stainless steel appliances, private balcony, hardwood floors, natural sunlight, modern features, and easy access to trains. To live in Sunset Park- Greenwood is to live in convenience and a diverse community. Enjoy the luxury of having access to bus lines and the N,R lines, with a quick commute to Atlantic terminal, with options like the 2,3,45, B,Q,B, and D trains! 
+  
+  Sunset Park is a neighborhood in the southwestern part of the New York city of Brooklyn. It is bounded by Park Slope, Greenwood Heights and Greenwood Cemetery to the north, Borough Park to the east, Bay Ridge to the south, and Upper New York Bay to the west. Because it was once close to the southern boundary of the City of Brooklyn, Sunset Park is considered to be part of South Brooklyn. 
+  
+  Greenwood Heights' architectural mix of wood frame, vinyl sided and brick homes gives the area an eclectic look and feel, different from its neighbors Park Slope to the north and Sunset Park to the south. Take advantage of the wide range of diverse cuisines, Ma and Pa shops, local grocery stores, and much more!</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+          <other>Hardwood Floors, Private Outdoor Space, Roof Access, Balcony/Terrace</other>
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/559/large/323_49th_St__4A_%281_of_12%29.jpg?1656697702" position="0" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/565/large/323_49th_St__4A_%286_of_12%29.jpg?1656697711" position="1" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/566/large/323_49th_St__4A_%287_of_12%29.jpg?1656697711" position="2" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/561/large/323_49th_St__4A_%282_of_12%29.jpg?1656697705" position="3" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/563/large/323_49th_St__4A_%284_of_12%29.jpg?1656697709" position="4" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/564/large/323_49th_St__4A_%285_of_12%29.jpg?1656697709" position="5" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/567/large/323_49th_St__4A_%288_of_12%29.jpg?1656697714" position="6" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/568/large/323_49th_St__4A_%289_of_12%29.jpg?1656697714" position="7" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/569/large/323_49th_St__4A_%2810_of_12%29.jpg?1656697717" position="8" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/570/large/323_49th_St__4A_%2811_of_12%29.jpg?1656697717" position="9" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/442/560/large/323_49th_St__4A_%2812_of_12%29.jpg?1656697703" position="10" description="" />
+      </media>
+    </property>
   <property type="rental" status="active" id="12840" url="https://myspacenyc.cazamio.com/apartments/114-32-168th-Street-Unit-2nd-Queens-NY-11434-12840">
       <location>
         <address>114-32 168th Street</address>
@@ -4545,37 +4608,6 @@
       </details>
       <media />
     </property>
-  <property type="rental" status="active" id="2552" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-1L-brooklyn-NY-11231-2552">
-      <location>
-        <address>63 3rd place</address>
-        <apartment>1L</apartment>
-        <city>brooklyn</city>
-        <state>NY</state>
-        <zipcode>11231</zipcode>
-        <neighborhood>Carroll Gardens</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>6300</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>2</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Jul-15-2023</availableOn>
-        <description />
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets />
-          <other>A/C, Backyard</other>
-        </amenities>
-      </details>
-      <media />
-    </property>
   <property type="rental" status="active" id="12822" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-2D-Brooklyn-NY-11213-12822">
       <location>
         <address>1042 President Street</address>
@@ -4704,6 +4736,37 @@
         <amenities>
           <pets>All pets allowed</pets>
           <other>Balcony/Terrace, Private Outdoor Space, Central A/C, Microwave</other>
+        </amenities>
+      </details>
+      <media />
+    </property>
+  <property type="rental" status="active" id="2552" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-1L-brooklyn-NY-11231-2552">
+      <location>
+        <address>63 3rd place</address>
+        <apartment>1L</apartment>
+        <city>brooklyn</city>
+        <state>NY</state>
+        <zipcode>11231</zipcode>
+        <neighborhood>Carroll Gardens</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>6300</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>2</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Jul-15-2023</availableOn>
+        <description />
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+          <other>A/C, Backyard</other>
         </amenities>
       </details>
       <media />
@@ -4847,126 +4910,6 @@
         <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/450/583/large/126_Herkimer_St__12_%2810_of_10%29.jpg?1668540680" position="7" description="" />
         <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/450/584/large/126_Herkimer_St__12_%289_of_10%29.jpg?1668540682" position="8" description="" />
         <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/450/585/large/126_Herkimer_St__12_%288_of_10%29.jpg?1668540685" position="9" description="" />
-      </media>
-    </property>
-  <property type="rental" status="active" id="12883" url="https://myspacenyc.cazamio.com/apartments/147-9th-Street-Unit-2B-Brooklyn-NY-11215-12883">
-      <location>
-        <address>147 9th Street</address>
-        <apartment>2B</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11215</zipcode>
-        <neighborhood>Gowanus</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>3250</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>1</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Sep-28-2023</availableOn>
-        <description>Newly renovated 1 bedroom!
-  
-  - Laundry in building
-  - Dishwasher
-  - Hardwood floors
-  
-  Great location! Close to F,G trains at Smith St. Near Bison &amp; Bourbon, ByClio Bakery, Four &amp; Twenty Blackbirds, SweetTalk, Room 205 Coffee Shop, 
-  Table 87 Pizza, etc. So much to do!
-  
-  No broker fee
-  Pets OK
-  Available 9/15</description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>All pets allowed</pets>
-          <other>Hardwood Floors, Dishwasher</other>
-        </amenities>
-      </details>
-      <agents>
-        <agent id="146">
-              <Name>The Belle Piper Team</Name>
-              <Company>MySpace NYC</Company>
-              <Email>belle.msnyc@myspacenyc.com</Email>
-              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
-              <Phone_Numbers>
-                <Main>646-351-1198</Main>
-                <Office>646.647.3326</Office>
-                <Cell>646-351-1198</Cell>
-                <Fax>718.399.3444</Fax>
-              </Phone_Numbers>
-            </agent>
-         </agents>
-        <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303110939001725.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303110949718174.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303111010045488.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303111019623701.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507069973130.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507093519854.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507082477769.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507057763982.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-      </media>
-    </property>
-  <property type="rental" status="active" id="12910" url="https://myspacenyc.cazamio.com/apartments/101-Varet-Street-Unit-4C-Brooklyn-NY-11206-12910">
-      <location>
-        <address>101 Varet Street</address>
-        <apartment>4C</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11206</zipcode>
-        <neighborhood>Williamsburg</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>3000</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>0</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Sep-08-2023</availableOn>
-        <description />
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>All pets allowed</pets>
-          <other>Hardwood Floors, Dishwasher, Stainless steel appliances, Washer/Dryer In Unit</other>
-        </amenities>
-      </details>
-      <agents>
-        <agent id="146">
-              <Name>The Belle Piper Team</Name>
-              <Company>MySpace NYC</Company>
-              <Email>belle.msnyc@myspacenyc.com</Email>
-              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
-              <Phone_Numbers>
-                <Main>646-351-1198</Main>
-                <Office>646.647.3326</Office>
-                <Cell>646-351-1198</Cell>
-                <Fax>718.399.3444</Fax>
-              </Phone_Numbers>
-            </agent>
-         </agents>
-        <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327220792755.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327234888654.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327248538381.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327267893848.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327285949647.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327299905643.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327312911108.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327169269882.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327195959991.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="2656" url="https://myspacenyc.cazamio.com/apartments/173-Jefferson-Street-Unit-1A-Brooklyn-NY-11206-2656">
@@ -5163,6 +5106,126 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638296285745793496.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638296285738585465.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638296285748752439.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
+      </media>
+    </property>
+  <property type="rental" status="active" id="12883" url="https://myspacenyc.cazamio.com/apartments/147-9th-Street-Unit-2B-Brooklyn-NY-11215-12883">
+      <location>
+        <address>147 9th Street</address>
+        <apartment>2B</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11215</zipcode>
+        <neighborhood>Gowanus</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>3250</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>1</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Sep-28-2023</availableOn>
+        <description>Newly renovated 1 bedroom!
+  
+  - Laundry in building
+  - Dishwasher
+  - Hardwood floors
+  
+  Great location! Close to F,G trains at Smith St. Near Bison &amp; Bourbon, ByClio Bakery, Four &amp; Twenty Blackbirds, SweetTalk, Room 205 Coffee Shop, 
+  Table 87 Pizza, etc. So much to do!
+  
+  No broker fee
+  Pets OK
+  Available 9/15</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>All pets allowed</pets>
+          <other>Hardwood Floors, Dishwasher</other>
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303110939001725.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303110949718174.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303111010045488.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638303111019623701.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507069973130.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507093519854.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507082477769.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1997_638313507057763982.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+      </media>
+    </property>
+  <property type="rental" status="active" id="12910" url="https://myspacenyc.cazamio.com/apartments/101-Varet-Street-Unit-4C-Brooklyn-NY-11206-12910">
+      <location>
+        <address>101 Varet Street</address>
+        <apartment>4C</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11206</zipcode>
+        <neighborhood>Williamsburg</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>3000</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>0</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Sep-08-2023</availableOn>
+        <description />
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>All pets allowed</pets>
+          <other>Hardwood Floors, Dishwasher, Stainless steel appliances, Washer/Dryer In Unit</other>
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327220792755.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327234888654.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327248538381.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327267893848.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327285949647.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327299905643.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327312911108.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327169269882.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1990_638301327195959991.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="1781" url="https://myspacenyc.cazamio.com/apartments/97-Varet-St-Unit-3B-Brooklyn-NY-11206-1781">
@@ -8255,74 +8318,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638234857125553352.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="16" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638234857130454137.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638234857135040792.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="17" description="" />
-      </media>
-    </property>
-  <property type="rental" status="active" id="2547" url="https://myspacenyc.cazamio.com/apartments/67-41-Burns-Street-Unit-129-Queens-NY-11375-2547">
-      <location>
-        <address>67-41 Burns Street</address>
-        <apartment>129</apartment>
-        <city>Queens</city>
-        <state>NY</state>
-        <zipcode>11375</zipcode>
-        <neighborhood>Forest Hills</neighborhood>
-      </location>
-      <details>
-        <status>Deposit received</status>
-        <apartment_type>single-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>2500</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>2</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Jul-13-2023</availableOn>
-        <description>Spacious 2 bedroom apartment in Forest Hills!
-  This beautiful APT features a HUGE living room area, kitchen with stainless steel appliances, dishwasher. The apt has 5 closets, including one walk-in closet. Plenty of natural light. Large bedroom fits a king size bed, small bedroom fits a queen size bed. Well maintained, stylish building. 
-  
-  Super live in.
-  Laundry in the building. 
-  Elevator building. 
-  Parking garage (waiting list)
-  
-  No pets allowed. Suggest to board approval. Heat, hot water and cooking gas included. 
-  Great price and location!</description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>No pets</pets>
-          <other>Dishwasher</other>
-        </amenities>
-      </details>
-      <agents>
-        <agent id="146">
-              <Name>The Belle Piper Team</Name>
-              <Company>MySpace NYC</Company>
-              <Email>belle.msnyc@myspacenyc.com</Email>
-              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
-              <Phone_Numbers>
-                <Main>646-351-1198</Main>
-                <Office>646.647.3326</Office>
-                <Cell>646-351-1198</Cell>
-                <Fax>718.399.3444</Fax>
-              </Phone_Numbers>
-            </agent>
-         </agents>
-        <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978078214961.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978145419615.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978205073658.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978253003721.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978305869224.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978366521503.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978428911539.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978486161003.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978553159338.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978609550527.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978660070650.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978724369396.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638248978784652188.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="2547" url="https://myspacenyc.cazamio.com/apartments/67-41-Burns-Street-Unit-129-Queens-NY-11375-2547">
