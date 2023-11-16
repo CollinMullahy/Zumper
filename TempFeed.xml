@@ -1427,8 +1427,8 @@
       <details>
         <status>Vacant</status>
         <apartment_type>multi-family</apartment_type>
-        <pay_type>Broker's Fee</pay_type>
-        <price>3500</price>
+        <pay_type>No Fee</pay_type>
+        <price>3400</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
@@ -2605,7 +2605,7 @@
         <bedrooms>2</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>1.5</bathrooms>
-        <availableOn>Jul-01-2023</availableOn>
+        <availableOn>Jan-01-2024</availableOn>
         <description>2 bed / 1.5 bath duplex available w/ Yard! 
   -Pets ok
   -Hardwood floors
@@ -7761,6 +7761,60 @@
         <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/450/750/large/262_E_55th_St__4A-6.jpg?1668804744" position="8" description="" />
       </media>
     </property>
+  <property type="rental" status="active" id="13740" url="https://myspacenyc.cazamio.com/apartments/831-Madison-St-Unit-2a-Brooklyn-NY-11221-13740">
+      <location>
+        <address>831 Madison St</address>
+        <apartment>2a</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11221</zipcode>
+        <neighborhood>Bedford Stuyvesant</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>Broker's Fee</pay_type>
+        <price>1753</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>1</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Dec-01-2023</availableOn>
+        <description>Beautiful 1 bed / 1 bath apartment in Bed-Stuy, prime location!This apartment features a spacious living room, queen-sized bedrooms, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout.Easy commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods.</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466709863446.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466719073825.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466725330929.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466730177389.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466736460338.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466741324168.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466745813828.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466752764270.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155466759100984.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+      </media>
+    </property>
   <property type="rental" status="active" id="13731" url="https://myspacenyc.cazamio.com/apartments/924-Metropolitan-Ave-Unit-207-Brooklyn-NY-11211-13731">
       <location>
         <address>924 Metropolitan Ave</address>
@@ -8786,36 +8840,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-10/1698_638337777042357066.png?sv=2019-07-07&amp;sr=c&amp;sig=qDzLFQXU0fIp%2Be0ZUR%2Ft0j7%2BwYOotYCs%2Fc6cRPs9qHc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-10/1698_638337777102436091.png?sv=2019-07-07&amp;sr=c&amp;sig=qDzLFQXU0fIp%2Be0ZUR%2Ft0j7%2BwYOotYCs%2Fc6cRPs9qHc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
       </media>
-    </property>
-  <property type="rental" status="active" id="13694" url="https://myspacenyc.cazamio.com/apartments/87-24-Pitkin-Avenue-Unit-B2-Queens-NY-11417-13694">
-      <location>
-        <address>87-24 Pitkin Avenue</address>
-        <apartment>B2</apartment>
-        <city>Queens</city>
-        <state>NY</state>
-        <zipcode>11417</zipcode>
-        <neighborhood>Ozone Park </neighborhood>
-      </location>
-      <details>
-        <status>Deposit received</status>
-        <apartment_type>single-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>2100</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>1</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Nov-10-2023</availableOn>
-        <description />
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>Case by Case</pets>
-        </amenities>
-      </details>
-      <media />
     </property>
   <property type="rental" status="active" id="13694" url="https://myspacenyc.cazamio.com/apartments/87-24-Pitkin-Avenue-Unit-B2-Queens-NY-11417-13694">
       <location>
