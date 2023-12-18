@@ -4024,7 +4024,7 @@
         <neighborhood>East Flatbush</neighborhood>
       </location>
       <details>
-        <status>Vacant</status>
+        <status>Occupied</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>Broker's Fee</pay_type>
         <price>2874</price>
@@ -4034,6 +4034,7 @@
         <bedrooms>2</bedrooms>
         <totalrooms>0</totalrooms>
         <bathrooms>1</bathrooms>
+        <availableOn>Jan-01-2024</availableOn>
         <description />
         <propertyType>rental</propertyType>
         
