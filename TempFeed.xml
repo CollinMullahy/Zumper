@@ -983,7 +983,7 @@
         <neighborhood>Flatbush</neighborhood>
       </location>
       <details>
-        <status>Vacant</status>
+        <status>Deposit received</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
         <price>2750</price>
@@ -4115,6 +4115,50 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638348875619330058.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638348875630577361.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
       </media>
+    </property>
+  <property type="rental" status="active" id="1496" url="https://myspacenyc.cazamio.com/apartments/483-Grandview-Ave-Unit-2R-Flushing-NY-11385-1496">
+      <location>
+        <address>483 Grandview Ave</address>
+        <apartment>2R</apartment>
+        <city>Flushing</city>
+        <state>NY</state>
+        <zipcode>11385</zipcode>
+        <neighborhood>Flushing</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>3600</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>4</bedrooms>
+        <totalrooms>6</totalrooms>
+        <bathrooms>1.5</bathrooms>
+        <availableOn>Jan-04-2024</availableOn>
+        <description>Gorgeous brand new building!
+  Right off the Myrtle-Wyckoff L/M trains and countless bus routes
+  
+  FEATURES:
+  Hardwood Floors
+  Stainless Steel Kitchen
+  Dishwasher
+  Central A/C &amp; Heat
+  WASHER/DRYER IN UNIT!
+  Closets in every room
+  Loads of natural light
+  Pet Friendly!! (1 time fee)
+  
+  NO BROKER FEE!</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+          <other>Central A/C, Dishwasher, Hardwood Floors, Washer/Dryer In Unit</other>
+        </amenities>
+      </details>
+      <media />
     </property>
   <property type="rental" status="active" id="14045" url="https://myspacenyc.cazamio.com/apartments/179-Putnam-Ave-Unit-1F-Brooklyn-NY-11216-14045">
       <location>
@@ -7874,36 +7918,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1995_638302146158574892.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1995_638302146220036162.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
       </media>
-    </property>
-  <property type="rental" status="active" id="13694" url="https://myspacenyc.cazamio.com/apartments/87-24-Pitkin-Avenue-Unit-B2-Queens-NY-11417-13694">
-      <location>
-        <address>87-24 Pitkin Avenue</address>
-        <apartment>B2</apartment>
-        <city>Queens</city>
-        <state>NY</state>
-        <zipcode>11417</zipcode>
-        <neighborhood>Ozone Park </neighborhood>
-      </location>
-      <details>
-        <status>Deposit received</status>
-        <apartment_type>single-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>2100</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>1</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Nov-10-2023</availableOn>
-        <description />
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>Case by Case</pets>
-        </amenities>
-      </details>
-      <media />
     </property>
   <property type="rental" status="active" id="13694" url="https://myspacenyc.cazamio.com/apartments/87-24-Pitkin-Avenue-Unit-B2-Queens-NY-11417-13694">
       <location>
