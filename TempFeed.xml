@@ -596,7 +596,7 @@
         <propertyType>rental</propertyType>
         
         <amenities>
-          <pets />
+          <pets>All pets allowed</pets>
           <other>Hardwood Floors, Washer/Dryer In Unit</other>
         </amenities>
       </details>
@@ -615,14 +615,73 @@
             </agent>
          </agents>
         <media>
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126368342552.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126358722379.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126378858641.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126387654637.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126396923591.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126423883942.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126405973344.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404126415438437.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404129011140290.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404129001309639.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404129049826015.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404129023080238.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404129057848254.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404129032624663.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638404129041378336.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+      </media>
+    </property>
+  <property type="rental" status="active" id="14255" url="https://myspacenyc.cazamio.com/apartments/365-Central-Ave-Unit-2R-Brooklyn-NY-11221-14255">
+      <location>
+        <address>365 Central Ave</address>
+        <apartment>2R</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11221</zipcode>
+        <neighborhood>Bushwick</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>2850</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>2</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Jan-02-2024</availableOn>
+        <description>Beautiful 2BR/1bath apartment in Bushwick, prime location!
+  
+  This 2 bedroom apartment features spacious living room, queen sized bedrooms .
+  You'll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Mominette, Sea Wolf, Three Diamond Door, Precious Metal, The Rookery, Archie's, Heavy Woods, Idlewild, Clara's, Yours Sincerely, Chuko, Los Hermanos, Wheelhouse. 
+  Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods. Only few blocks from the L train, and a 8 minute walk to the J,M trains
+  
+  Contact to schedule your appointment today!</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>All pets allowed</pets>
+          <other>Hardwood Floors</other>
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196609523252.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196615736488.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196621288340.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196598261401.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196603333621.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196591761611.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196586388284.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399196579600448.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
       </media>
     </property>
   <property type="rental" status="active" id="14182" url="https://myspacenyc.cazamio.com/apartments/365-Central-Ave-Unit-2L-Brooklyn-NY-11221-14182">
@@ -656,7 +715,7 @@
         <propertyType>rental</propertyType>
         
         <amenities>
-          <pets />
+          <pets>All pets allowed</pets>
           <other>Hardwood Floors</other>
         </amenities>
       </details>
@@ -5370,87 +5429,64 @@
       </details>
       <media />
     </property>
-  <property type="rental" status="active" id="13197" url="https://myspacenyc.cazamio.com/apartments/17-22-Greene-Ave-Unit-3L-Queens-NY-11385-13197">
+  <property type="rental" status="active" id="13460" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-2L-brooklyn-NY-11231-13460">
       <location>
-        <address>17-22 Greene Ave</address>
-        <apartment>3L</apartment>
-        <city>Queens</city>
+        <address>63 3rd place</address>
+        <apartment>2L</apartment>
+        <city>brooklyn</city>
         <state>NY</state>
-        <zipcode>11385</zipcode>
-        <neighborhood>Ridgewood</neighborhood>
+        <zipcode>11231</zipcode>
+        <neighborhood>Carroll Gardens</neighborhood>
       </location>
       <details>
         <status>Vacant</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>3785</price>
+        <price>5500</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
-        <bedrooms>4</bedrooms>
+        <bedrooms>2</bedrooms>
         <totalrooms>0</totalrooms>
-        <bathrooms>1.5</bathrooms>
-        <availableOn>Nov-01-2023</availableOn>
-        <description>Beautiful 4 BR/1.5 bath apartment in Ridgewood, prime location!This 4 bedroom apartment features spacious living room, queen sized bedrooms, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout. You'll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Norma's, Sweet Jane's, Aunt Jenny's, Ridgewood Ale House, Gottscheer Hall, While in Kathmandu, Julia's Wine Bar, Queen's Tavern, Houdini's Kitchen Laboratory. Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods.No brokers fee! Only First &amp; SecurityContact to schedule your appointment today!</description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets />
-          <other>Central A/C, Dishwasher</other>
-        </amenities>
-      </details>
-      <agents>
-        <agent id="146">
-              <Name>The Belle Piper Team</Name>
-              <Company>MySpace NYC</Company>
-              <Email>belle.msnyc@myspacenyc.com</Email>
-              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
-              <Phone_Numbers>
-                <Main>646-351-1198</Main>
-                <Office>646.647.3326</Office>
-                <Cell>646-351-1198</Cell>
-                <Fax>718.399.3444</Fax>
-              </Phone_Numbers>
-            </agent>
-         </agents>
-        <media>
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/679/large/IMG_4154-Edit.jpg?1520660945" position="0" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/678/large/IMG_4151.jpg?1520660945" position="1" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/682/large/IMG_4158-Edit.jpg?1520660947" position="2" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/681/large/IMG_4156-Edit.jpg?1520660946" position="3" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/683/large/IMG_4163-Edit.jpg?1520660948" position="4" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/684/large/IMG_4167.jpg?1520660948" position="5" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/686/large/IMG_4172.jpg?1520660949" position="6" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/685/large/IMG_4169.jpg?1520660949" position="7" description="" />
-        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/687/large/IMG_4197-Edit.jpg?1520660951" position="8" description="" />
-      </media>
-    </property>
-  <property type="rental" status="active" id="13591" url="https://myspacenyc.cazamio.com/apartments/565-Evergreen-Ave-Unit-3B-Brooklyn-NY-11221-13591">
-      <location>
-        <address>565 Evergreen Ave</address>
-        <apartment>3B</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11221</zipcode>
-        <neighborhood>Bushwick</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>4200</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>4</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1.5</bathrooms>
-        <availableOn>Nov-01-2023</availableOn>
+        <bathrooms>1</bathrooms>
+        <availableOn>Jul-14-2023</availableOn>
         <description />
         <propertyType>rental</propertyType>
         
         <amenities>
           <pets />
+          <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
+        </amenities>
+      </details>
+      <media />
+    </property>
+  <property type="rental" status="active" id="13461" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-3R-brooklyn-NY-11231-13461">
+      <location>
+        <address>63 3rd place</address>
+        <apartment>3R</apartment>
+        <city>brooklyn</city>
+        <state>NY</state>
+        <zipcode>11231</zipcode>
+        <neighborhood>Carroll Gardens</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>5500</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>2</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Jul-13-2023</availableOn>
+        <description />
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+          <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
         </amenities>
       </details>
       <media />
@@ -5629,64 +5665,87 @@
       </details>
       <media />
     </property>
-  <property type="rental" status="active" id="13460" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-2L-brooklyn-NY-11231-13460">
+  <property type="rental" status="active" id="13197" url="https://myspacenyc.cazamio.com/apartments/17-22-Greene-Ave-Unit-3L-Queens-NY-11385-13197">
       <location>
-        <address>63 3rd place</address>
-        <apartment>2L</apartment>
-        <city>brooklyn</city>
+        <address>17-22 Greene Ave</address>
+        <apartment>3L</apartment>
+        <city>Queens</city>
         <state>NY</state>
-        <zipcode>11231</zipcode>
-        <neighborhood>Carroll Gardens</neighborhood>
+        <zipcode>11385</zipcode>
+        <neighborhood>Ridgewood</neighborhood>
       </location>
       <details>
         <status>Vacant</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>5500</price>
+        <price>3785</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
-        <bedrooms>2</bedrooms>
+        <bedrooms>4</bedrooms>
         <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Jul-14-2023</availableOn>
-        <description />
+        <bathrooms>1.5</bathrooms>
+        <availableOn>Nov-01-2023</availableOn>
+        <description>Beautiful 4 BR/1.5 bath apartment in Ridgewood, prime location!This 4 bedroom apartment features spacious living room, queen sized bedrooms, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout. You'll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Norma's, Sweet Jane's, Aunt Jenny's, Ridgewood Ale House, Gottscheer Hall, While in Kathmandu, Julia's Wine Bar, Queen's Tavern, Houdini's Kitchen Laboratory. Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods.No brokers fee! Only First &amp; SecurityContact to schedule your appointment today!</description>
         <propertyType>rental</propertyType>
         
         <amenities>
           <pets />
-          <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
+          <other>Central A/C, Dishwasher</other>
         </amenities>
       </details>
-      <media />
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/679/large/IMG_4154-Edit.jpg?1520660945" position="0" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/678/large/IMG_4151.jpg?1520660945" position="1" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/682/large/IMG_4158-Edit.jpg?1520660947" position="2" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/681/large/IMG_4156-Edit.jpg?1520660946" position="3" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/683/large/IMG_4163-Edit.jpg?1520660948" position="4" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/684/large/IMG_4167.jpg?1520660948" position="5" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/686/large/IMG_4172.jpg?1520660949" position="6" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/685/large/IMG_4169.jpg?1520660949" position="7" description="" />
+        <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/108/687/large/IMG_4197-Edit.jpg?1520660951" position="8" description="" />
+      </media>
     </property>
-  <property type="rental" status="active" id="13461" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-3R-brooklyn-NY-11231-13461">
+  <property type="rental" status="active" id="13591" url="https://myspacenyc.cazamio.com/apartments/565-Evergreen-Ave-Unit-3B-Brooklyn-NY-11221-13591">
       <location>
-        <address>63 3rd place</address>
-        <apartment>3R</apartment>
-        <city>brooklyn</city>
+        <address>565 Evergreen Ave</address>
+        <apartment>3B</apartment>
+        <city>Brooklyn</city>
         <state>NY</state>
-        <zipcode>11231</zipcode>
-        <neighborhood>Carroll Gardens</neighborhood>
+        <zipcode>11221</zipcode>
+        <neighborhood>Bushwick</neighborhood>
       </location>
       <details>
         <status>Vacant</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
-        <price>5500</price>
+        <price>4200</price>
         <featured>no</featured>
         <rental_term>No Rental Term</rental_term>
         <utilities>No Utils Included</utilities>
-        <bedrooms>2</bedrooms>
+        <bedrooms>4</bedrooms>
         <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Jul-13-2023</availableOn>
+        <bathrooms>1.5</bathrooms>
+        <availableOn>Nov-01-2023</availableOn>
         <description />
         <propertyType>rental</propertyType>
         
         <amenities>
           <pets />
-          <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
         </amenities>
       </details>
       <media />
@@ -8466,35 +8525,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1990_638399890018332919.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1990_638399890027531553.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
       </media>
-    </property>
-  <property type="rental" status="active" id="13459" url="https://myspacenyc.cazamio.com/apartments/1443-Bushwick-Avenue-Unit-3-Brooklyn-NY-11207-13459">
-      <location>
-        <address>1443 Bushwick Avenue</address>
-        <apartment>3</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11207</zipcode>
-        <neighborhood>Bushwick</neighborhood>
-      </location>
-      <details>
-        <status>Deposit received</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>3000</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>3</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>2</bathrooms>
-        <description />
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets />
-        </amenities>
-      </details>
-      <media />
     </property>
   <property type="rental" status="active" id="12939" url="https://myspacenyc.cazamio.com/apartments/4023-10th-Avenue-Unit-3A-Brooklyn-NY-11219-12939">
       <location>
