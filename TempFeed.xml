@@ -6774,7 +6774,7 @@
         <neighborhood>Bushwick</neighborhood>
       </location>
       <details>
-        <status>Vacant</status>
+        <status>Occupied</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
         <price>3600</price>
@@ -6793,7 +6793,32 @@
           <other>Balcony/Terrace, Central A/C, Dishwasher, Hardwood Floors</other>
         </amenities>
       </details>
-      <media />
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982434062986.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982444295213.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982461904631.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982473530996.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982484426960.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982494218739.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982505832506.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982517268594.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982529306424.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416982545540071.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+      </media>
     </property>
   <property type="rental" status="active" id="14189" url="https://myspacenyc.cazamio.com/apartments/186-Wilson-Ave-Unit-1R-Brooklyn-NY-11237-14189">
       <location>
