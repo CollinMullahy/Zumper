@@ -3539,7 +3539,7 @@
         <neighborhood>Bedford Stuyvesant</neighborhood>
       </location>
       <details>
-        <status>Vacant</status>
+        <status>Deposit received</status>
         <apartment_type>multi-family</apartment_type>
         <pay_type>No Fee</pay_type>
         <price>3455</price>
@@ -4509,6 +4509,138 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638398212177722881.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="37" description="" />
       </media>
     </property>
+  <property type="rental" status="active" id="12822" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-2D-Brooklyn-NY-11213-12822">
+      <location>
+        <address>1042 President Street</address>
+        <apartment>2D</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11213</zipcode>
+        <neighborhood>Crown Heights</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>3200</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>0</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Sep-28-2023</availableOn>
+        <description>First and Security only - NO FEE 
+  Now 1.5 months free 
+  Lease start available as late as October 1 available 
+  
+  Amazing location- where Prospect Heights meets Crown Heights- steps to Prospect park and Franklin Ave!
+  Off of 2/3/4/5 and shuttle trains for a quick commute! 
+  
+  Full amenity luxury new development featuring: 
+  Virtual Doorman 
+  Elevator 
+  Gym 
+  Laundry Room 
+  Roof Deck 
+  Garage Parking </description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>All pets allowed</pets>
+          <other>Private Outdoor Space, Balcony/Terrace, Microwave, Central A/C</other>
+        </amenities>
+      </details>
+      <media />
+    </property>
+  <property type="rental" status="active" id="12823" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-3B-Brooklyn-NY-11213-12823">
+      <location>
+        <address>1042 President Street</address>
+        <apartment>3B</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11213</zipcode>
+        <neighborhood>Crown Heights</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>3600</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>1</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Sep-28-2023</availableOn>
+        <description>First and Security only - NO FEE 
+  Now 1.5 months free 
+  Lease start available as late as October 1 available 
+  
+  Amazing location- where Prospect Heights meets Crown Heights- steps to Prospect park and Franklin Ave!
+  Off of 2/3/4/5 and shuttle trains for a quick commute! 
+  
+  Full amenity luxury new development featuring: 
+  Virtual Doorman 
+  Elevator 
+  Gym 
+  Laundry Room 
+  Roof Deck 
+  Garage Parking </description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>All pets allowed</pets>
+          <other>Balcony/Terrace, Private Outdoor Space, Central A/C, Microwave</other>
+        </amenities>
+      </details>
+      <media />
+    </property>
+  <property type="rental" status="active" id="12824" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-4C-Brooklyn-NY-11213-12824">
+      <location>
+        <address>1042 President Street</address>
+        <apartment>4C</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11213</zipcode>
+        <neighborhood>Crown Heights</neighborhood>
+      </location>
+      <details>
+        <status>Vacant</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>4300</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>2</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1</bathrooms>
+        <availableOn>Sep-28-2023</availableOn>
+        <description>First and Security only - NO FEE 
+  Now 1.5 months free 
+  Lease start available as late as October 1 available 
+  
+  Amazing location- where Prospect Heights meets Crown Heights- steps to Prospect park and Franklin Ave!
+  Off of 2/3/4/5 and shuttle trains for a quick commute! 
+  
+  Full amenity luxury new development featuring: 
+  Virtual Doorman 
+  Elevator 
+  Gym 
+  Laundry Room 
+  Roof Deck 
+  Garage Parking </description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets>All pets allowed</pets>
+          <other>Balcony/Terrace, Private Outdoor Space, Central A/C, Microwave</other>
+        </amenities>
+      </details>
+      <media />
+    </property>
   <property type="rental" status="active" id="2034" url="https://myspacenyc.cazamio.com/apartments/1027-Putnam-Avenue-Unit-3B-Brooklyn-NY-11221-2034">
       <location>
         <address>1027 Putnam Avenue</address>
@@ -4949,138 +5081,6 @@
         
         <amenities>
           <pets />
-        </amenities>
-      </details>
-      <media />
-    </property>
-  <property type="rental" status="active" id="12822" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-2D-Brooklyn-NY-11213-12822">
-      <location>
-        <address>1042 President Street</address>
-        <apartment>2D</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11213</zipcode>
-        <neighborhood>Crown Heights</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>3200</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>0</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Sep-28-2023</availableOn>
-        <description>First and Security only - NO FEE 
-  Now 1.5 months free 
-  Lease start available as late as October 1 available 
-  
-  Amazing location- where Prospect Heights meets Crown Heights- steps to Prospect park and Franklin Ave!
-  Off of 2/3/4/5 and shuttle trains for a quick commute! 
-  
-  Full amenity luxury new development featuring: 
-  Virtual Doorman 
-  Elevator 
-  Gym 
-  Laundry Room 
-  Roof Deck 
-  Garage Parking </description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>All pets allowed</pets>
-          <other>Private Outdoor Space, Balcony/Terrace, Microwave, Central A/C</other>
-        </amenities>
-      </details>
-      <media />
-    </property>
-  <property type="rental" status="active" id="12823" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-3B-Brooklyn-NY-11213-12823">
-      <location>
-        <address>1042 President Street</address>
-        <apartment>3B</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11213</zipcode>
-        <neighborhood>Crown Heights</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>3600</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>1</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Sep-28-2023</availableOn>
-        <description>First and Security only - NO FEE 
-  Now 1.5 months free 
-  Lease start available as late as October 1 available 
-  
-  Amazing location- where Prospect Heights meets Crown Heights- steps to Prospect park and Franklin Ave!
-  Off of 2/3/4/5 and shuttle trains for a quick commute! 
-  
-  Full amenity luxury new development featuring: 
-  Virtual Doorman 
-  Elevator 
-  Gym 
-  Laundry Room 
-  Roof Deck 
-  Garage Parking </description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>All pets allowed</pets>
-          <other>Balcony/Terrace, Private Outdoor Space, Central A/C, Microwave</other>
-        </amenities>
-      </details>
-      <media />
-    </property>
-  <property type="rental" status="active" id="12824" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-4C-Brooklyn-NY-11213-12824">
-      <location>
-        <address>1042 President Street</address>
-        <apartment>4C</apartment>
-        <city>Brooklyn</city>
-        <state>NY</state>
-        <zipcode>11213</zipcode>
-        <neighborhood>Crown Heights</neighborhood>
-      </location>
-      <details>
-        <status>Vacant</status>
-        <apartment_type>multi-family</apartment_type>
-        <pay_type>No Fee</pay_type>
-        <price>4300</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>2</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Sep-28-2023</availableOn>
-        <description>First and Security only - NO FEE 
-  Now 1.5 months free 
-  Lease start available as late as October 1 available 
-  
-  Amazing location- where Prospect Heights meets Crown Heights- steps to Prospect park and Franklin Ave!
-  Off of 2/3/4/5 and shuttle trains for a quick commute! 
-  
-  Full amenity luxury new development featuring: 
-  Virtual Doorman 
-  Elevator 
-  Gym 
-  Laundry Room 
-  Roof Deck 
-  Garage Parking </description>
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>All pets allowed</pets>
-          <other>Balcony/Terrace, Private Outdoor Space, Central A/C, Microwave</other>
         </amenities>
       </details>
       <media />
@@ -7329,6 +7329,61 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/22_638412909049932377.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
       </media>
     </property>
+  <property type="rental" status="active" id="14443" url="https://myspacenyc.cazamio.com/apartments/662-Park-Pl-Unit-2F-Brooklyn-NY-11216-14443">
+      <location>
+        <address>662 Park Pl</address>
+        <apartment>2F</apartment>
+        <city>Brooklyn</city>
+        <state>NY</state>
+        <zipcode>11216</zipcode>
+        <neighborhood>Crown Heights</neighborhood>
+      </location>
+      <details>
+        <status>Occupied</status>
+        <apartment_type>multi-family</apartment_type>
+        <pay_type>No Fee</pay_type>
+        <price>4500</price>
+        <featured>no</featured>
+        <rental_term>No Rental Term</rental_term>
+        <utilities>No Utils Included</utilities>
+        <bedrooms>3</bedrooms>
+        <totalrooms>0</totalrooms>
+        <bathrooms>1.5</bathrooms>
+        <availableOn>Apr-01-2024</availableOn>
+        <description>Amazing amazing 3 bedroom w/ washer and dryer in the unit! Modern kitchen with stone countertops and stainless steel appliances! Hardwood floors, video intercom and central AC! Luxury: Access to the backyard!! Steps from Franklin Ave. 2,3,4,5,S trains. BK Museum, Prospect Park and so much more.</description>
+        <propertyType>rental</propertyType>
+        
+        <amenities>
+          <pets />
+          <other>Duplex, Washer/Dryer In Unit, Shared Outdoor Space, Dishwasher</other>
+        </amenities>
+      </details>
+      <agents>
+        <agent id="146">
+              <Name>The Belle Piper Team</Name>
+              <Company>MySpace NYC</Company>
+              <Email>belle.msnyc@myspacenyc.com</Email>
+              <Lead_Email>belle.msnyc@myspacenyc.com</Lead_Email>
+              <Phone_Numbers>
+                <Main>646-351-1198</Main>
+                <Office>646.647.3326</Office>
+                <Cell>646-351-1198</Cell>
+                <Fax>718.399.3444</Fax>
+              </Phone_Numbers>
+            </agent>
+         </agents>
+        <media>
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212134292325.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212142836631.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212149327648.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212156272776.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212164234722.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212170689806.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212178372007.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212184188439.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+        <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1990_638219212191441263.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+      </media>
+    </property>
   <property type="rental" status="active" id="1685" url="https://myspacenyc.cazamio.com/apartments/1320-Sterling-Pl-Unit-2R-Brooklyn-NY-11213-1685">
       <location>
         <address>1320 Sterling Pl</address>
@@ -7742,36 +7797,6 @@
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1990_638399890018332919.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
         <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1990_638399890027531553.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
       </media>
-    </property>
-  <property type="rental" status="active" id="13694" url="https://myspacenyc.cazamio.com/apartments/87-24-Pitkin-Avenue-Unit-B2-Queens-NY-11417-13694">
-      <location>
-        <address>87-24 Pitkin Avenue</address>
-        <apartment>B2</apartment>
-        <city>Queens</city>
-        <state>NY</state>
-        <zipcode>11417</zipcode>
-        <neighborhood>Ozone Park </neighborhood>
-      </location>
-      <details>
-        <status>Deposit received</status>
-        <apartment_type>single-family</apartment_type>
-        <pay_type>Broker's Fee</pay_type>
-        <price>2100</price>
-        <featured>no</featured>
-        <rental_term>No Rental Term</rental_term>
-        <utilities>No Utils Included</utilities>
-        <bedrooms>1</bedrooms>
-        <totalrooms>0</totalrooms>
-        <bathrooms>1</bathrooms>
-        <availableOn>Nov-10-2023</availableOn>
-        <description />
-        <propertyType>rental</propertyType>
-        
-        <amenities>
-          <pets>Case by Case</pets>
-        </amenities>
-      </details>
-      <media />
     </property>
   <property type="rental" status="active" id="14200" url="https://myspacenyc.cazamio.com/apartments/87-28-Pitkin-Avenue-Unit-C1-Queens-NY-11417-14200">
       <location>
