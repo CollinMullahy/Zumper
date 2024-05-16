@@ -7866,6 +7866,55 @@ Pets OK</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638210609490528249.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="19" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="17164" url="https://myspacenyc.cazamio.com/apartments/217-Malcolm-X-Blvd-Unit-1R-Brooklyn-NY-11221-17164">
+  <location>
+    <address>217 Malcolm X Blvd</address>
+    <apartment>1R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+    <neighborhood>Stuyvesant Heights</neighborhood>
+  </location>
+  <details>
+    <status>Vacant</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>5500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1.5</bathrooms>
+    <availableOn>May-16-2024</availableOn>
+    <description>This apartment features a 400 sq ft garage space! 
+
+1 bed duplex + garage space!
+
+This place is located within short distance from BedStuy?s famed Stuyvesant Heights commercial corridor, where you?ll find Saraghina?s (best pizza and cocktails ever!), Therapy Wine Bar, Peaches, etc. Also, a short distance down to Franklin Ave, one of Crown Heights? most thriving streets with hip bars, cafes, restaurants galore, and many local businesses and with a strong sense of neighborhood charm.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>KM435</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors, Garden Views, Duplex</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="1781" url="https://myspacenyc.cazamio.com/apartments/97-Varet-St-Unit-3B-Brooklyn-NY-11206-1781">
   <location>
     <address>97 Varet St</address>
