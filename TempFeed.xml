@@ -19469,6 +19469,57 @@ Elevator access</description>
   </agents>
   <media />
 </property>
+<property type="rental" status="active" id="20026" url="https://myspacenyc.cazamio.com/apartments/329-Menahan-St-Unit-2R-Brooklyn-NY-11237-20026">
+  <location>
+    <address>329 Menahan St</address>
+    <apartment>2R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>1475</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Sep-01-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CSBAR</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <agents>
+    <agent id="274">
+      <company>MySpace NYC</company>
+      <email>contessa.stuto@myspacenyc.com</email>
+      <lead_email>contessa.stuto@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="19464" url="https://myspacenyc.cazamio.com/apartments/576-Washington-Avenue-Unit-1b-Brooklyn-NY-11238-19464">
   <location>
     <address>576 Washington Avenue</address>
