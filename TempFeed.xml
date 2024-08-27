@@ -19260,4 +19260,59 @@ Nestled in a vibrant neighborhood, you?ll be just a short walk from great shoppi
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638599609463269408.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="20064" url="https://myspacenyc.cazamio.com/apartments/74-33-64th-Place-Unit-2-Queens-NY-11385-20064">
+  <location>
+    <address>74-33 64th Place</address>
+    <apartment>2</apartment>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+    <neighborhood>Glendale</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3600</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>4</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Aug-27-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>TGRX</owner_company_name>
+    <amenities>
+      <pets>Case by Case</pets>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <agents>
+    <agent id="149">
+      <company>MySpace NYC</company>
+      <email>valentina@myspacenyc.com</email>
+      <lead_email>valentina@myspacenyc.com</lead_email>
+      <phone_numbers>
+        <main>5188675309</main>
+        <cell>5188675309</cell>
+      </phone_numbers>
+    </agent>
+  </agents>
+  <media />
+</property>
 </properties>
