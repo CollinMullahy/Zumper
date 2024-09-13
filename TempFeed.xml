@@ -13949,7 +13949,7 @@ NO FEE!</description>
     <neighborhood>Bushwick</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3800</price>
@@ -16073,6 +16073,183 @@ Shared backyard
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638471525471306503.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638471525488796777.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
   </media>
+</property>
+<property type="rental" status="active" id="20459" url="https://myspacenyc.cazamio.com/apartments/1620-New-York-Avenue-Unit-6f-Brooklyn-NY-11210-20459">
+  <location>
+    <address>1620 New York Avenue</address>
+    <apartment>6f</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+    <neighborhood />
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Oct-01-2024</availableOn>
+    <description>Experience luxury living in this premier Flatbush development, located just steps from Flatbush Junction and the 2/5 express trains. The building offers an impressive array of amenities, including:
+
+Fitness center
+Parking garage
+On-site laundry facilities
+Bicycle storage
+Finished rooftop with breathtaking views of the Manhattan skyline
+
+Inside, the residences are designed for modern comfort, featuring:
+Designer kitchens with stainless steel appliances
+Stone countertops
+Spacious layouts
+Large windows that provide abundant natural light
+
+This is the perfect blend of convenience and upscale living in a vibrant neighborhood.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>YHT</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher, Balcony/Terrace</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="20460" url="https://myspacenyc.cazamio.com/apartments/1620-New-York-Avenue-Unit-6B-Brooklyn-NY-11210-20460">
+  <location>
+    <address>1620 New York Avenue</address>
+    <apartment>6B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+    <neighborhood />
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Oct-01-2024</availableOn>
+    <description>Experience luxury living in this premier Flatbush development, located just steps from Flatbush Junction and the 2/5 express trains. The building offers an impressive array of amenities, including:
+
+Fitness center
+Parking garage
+On-site laundry facilities
+Bicycle storage
+Finished rooftop with breathtaking views of the Manhattan skyline
+
+Inside, the residences are designed for modern comfort, featuring:
+Designer kitchens with stainless steel appliances
+Stone countertops
+Spacious layouts
+Large windows that provide abundant natural light
+
+This is the perfect blend of convenience and upscale living in a vibrant neighborhood.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>YHT</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher, Balcony/Terrace</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="20461" url="https://myspacenyc.cazamio.com/apartments/1620-New-York-Avenue-Unit-7C-Brooklyn-NY-11210-20461">
+  <location>
+    <address>1620 New York Avenue</address>
+    <apartment>7C</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+    <neighborhood />
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Oct-01-2024</availableOn>
+    <description>Experience luxury living in this premier Flatbush development, located just steps from Flatbush Junction and the 2/5 express trains. The building offers an impressive array of amenities, including:
+
+Fitness center
+Parking garage
+On-site laundry facilities
+Bicycle storage
+Finished rooftop with breathtaking views of the Manhattan skyline
+
+Inside, the residences are designed for modern comfort, featuring:
+Designer kitchens with stainless steel appliances
+Stone countertops
+Spacious layouts
+Large windows that provide abundant natural light
+
+This is the perfect blend of convenience and upscale living in a vibrant neighborhood.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>YHT</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher, Balcony/Terrace</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
 </property>
 <property type="rental" status="active" id="20359" url="https://myspacenyc.cazamio.com/apartments/111-Weirfield-Street-Unit-3F-Brooklyn-NY-11221-20359">
   <location>
