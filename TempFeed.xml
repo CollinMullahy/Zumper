@@ -12868,51 +12868,6 @@ Broker fee applies</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638174302782247293.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="20433" url="https://myspacenyc.cazamio.com/apartments/291-Jefferson-St-Unit-1R-Brooklyn-NY-11237-20433">
-  <location>
-    <address>291 Jefferson St</address>
-    <apartment>1R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3500</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1.5</bathrooms>
-    <availableOn>Oct-01-2024</availableOn>
-    <description>Check out this stunning, newly renovated duplex featuring 2 bedrooms, 1.5 bathrooms, and an expansive open basement. The space boasts hardwood floors, on-site laundry, and access to a shared backyard. Conveniently located near a variety of restaurants, bars, shops, and grocery stores, and just a short distance from the Morgan Ave and Jefferson St L train stops!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>PSSmgmt</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Shared Outdoor Space</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property type="rental" status="active" id="20583" url="https://myspacenyc.cazamio.com/apartments/203-17th-St-Unit-20-Brooklyn-NY-11215-20583">
   <location>
     <address>203 17th St</address>
@@ -20601,7 +20556,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3100</price>
