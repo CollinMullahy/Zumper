@@ -209,7 +209,7 @@ Broker fee applies</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3895</price>
@@ -346,7 +346,7 @@ No broker fee</description>
     <neighborhood>Prospect Park South</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>Broker's Fee</pay_type>
     <price>3000</price>
@@ -4707,6 +4707,101 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
       </agents>
   <media />
 </property>
+<property type="rental" status="active" id="21459" url="https://myspacenyc.cazamio.com/apartments/250-Clarkson-Ave-Unit-517-Brooklyn-NY-11226-21459">
+  <location>
+    <address>250 Clarkson Ave</address>
+    <apartment>517</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+    <neighborhood>Flatbush - Ditmas Park</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>Broker's Fee</pay_type>
+    <price>1875</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>0</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jan-01-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>hershko</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="21460" url="https://myspacenyc.cazamio.com/apartments/270-Clarkson-Ave-Unit-606-Brooklyn-NY-11226-21460">
+  <location>
+    <address>270 Clarkson Ave</address>
+    <apartment>606</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+    <neighborhood>Prospect Lefferts Gardens</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>Broker's Fee</pay_type>
+    <price>2150</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jan-01-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>hershko</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233110152896.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=6rX53zn0dF7llVeeUf%2F%2BBJ5p17TNqCDZSkcXFkuna2A%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111482675.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=hwz0PBC6XYr%2FbCLCZ5EsJRK1NYNMmyIu9RHqoTr6oh8%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111880323.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=dEGKMcCbFSNKk9%2FZEzUnyjWSZpRPcG0aNIPk8O7j2EQ%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111877275.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=9PxJLfEbqo%2F7c8O8NTG4ofOz20GJ%2FrYGDSpNHnOCCFQ%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111167862.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=bZBgYacERs8ouq1vF%2BjbyQou3qicxh7rtn%2BC9XOCkYM%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111937402.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=542i9Rcp1tphHwmTQ6yTVGQENA5g3mxALe%2B3fg60wl0%3D" position="5" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="21456" url="https://myspacenyc.cazamio.com/apartments/1419-Greene-Ave-Unit-2r-Brooklyn-NY-11237-21456">
   <location>
     <address>1419 Greene Ave</address>
@@ -4717,7 +4812,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <neighborhood>Bushwick</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>2609</price>
@@ -9287,7 +9382,7 @@ Won't last CONTACT US ASAP</description>
     <neighborhood>Stuyvesant Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3150</price>
@@ -13637,7 +13732,7 @@ This beautiful apartment offers everything you need, whether you're relaxing at 
     <neighborhood>Little Haiti</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>2574</price>
@@ -18364,7 +18459,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3900</price>
@@ -20445,7 +20540,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4500</price>
