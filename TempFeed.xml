@@ -6345,6 +6345,58 @@ No broker fee</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/1997_638385350436273828.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="30204" url="https://myspacenyc.cazamio.com/apartments/198-Clifton-Pl-Unit-3B-Brooklyn-NY-11216-30204">
+  <location>
+    <address>198 Clifton Pl</address>
+    <apartment>3B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+    <neighborhood>Bedford Stuyvesant</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3699</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Jan-10-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>gr8</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors, Stainless steel appliances, Dishwasher</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342264617109.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=Yxml4l%2FpwVwjksJLH55OClvDiI04vYL%2FLJsrSeGjxk8%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342265092694.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=qJ8QeeMiZqXhn%2Fy%2BLREoJuKB6fZ8NjxpqNnO6v9hkxU%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342263999220.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=ruptVUdpp%2BeXzuHznNxme9YQ9aOu52%2BmTQoQAMbcsQc%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342264676121.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=WsDaYl9hck3GR8XBumh3Ze%2BI%2FlTV48LRxMiOmlkOXE4%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342264996591.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=kLTBOfefC0gzo3a%2BccI6WUPtFrE%2BiUSt423S6UMBe6w%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342265107626.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=eQCLozmBSXugyYM8fqzZd0jStKKlM7Qzcoy%2BNgQhjvg%3D" position="5" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="21569" url="https://myspacenyc.cazamio.com/apartments/1084-Bedford-Ave-Unit-GC-Brooklyn-NY-11216-21569">
   <location>
     <address>1084 Bedford Ave</address>
@@ -17095,7 +17147,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3100</price>
