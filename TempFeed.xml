@@ -8637,6 +8637,50 @@ Garage Parking</description>
       </agents>
   <media />
 </property>
+<property type="rental" status="active" id="30285" url="https://myspacenyc.cazamio.com/apartments/425-East-12th-Street-Unit-1W-New-York-NY-10009-30285">
+  <location>
+    <address>425 East 12th Street</address>
+    <apartment>1W</apartment>
+    <city>New York</city>
+    <state>NY</state>
+    <zipcode>10009</zipcode>
+    <neighborhood />
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>single-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2250</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>0</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Feb-01-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>JMDG</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="21042" url="https://myspacenyc.cazamio.com/apartments/101-Varet-Street-Unit-2B-Brooklyn-NY-11206-21042">
   <location>
     <address>101 Varet Street</address>
@@ -13203,50 +13247,6 @@ Step outside to the furnished roof deck for a breath of fresh air or relax in yo
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1995_638641671119770042.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="21363" url="https://myspacenyc.cazamio.com/apartments/1319-Halsey-Street-Unit-3R-Brooklyn-NY-11237-21363">
-  <location>
-    <address>1319 Halsey Street</address>
-    <apartment>3R</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Nov-30-2024</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>Elmord</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property type="rental" status="active" id="21365" url="https://myspacenyc.cazamio.com/apartments/27-16-21st-Street-Unit-3C-Queens-NY-11102-21365">
   <location>
     <address>27-16 21st Street</address>
@@ -13370,6 +13370,50 @@ Contact us today to book a tour and see it in person!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1995_638645101319780653.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1995_638645101681361349.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
   </media>
+</property>
+<property type="rental" status="active" id="30289" url="https://myspacenyc.cazamio.com/apartments/1689-Sterling-Place-Unit-3B-Brooklyn-NY-11233-30289">
+  <location>
+    <address>1689 Sterling Place</address>
+    <apartment>3B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2628</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Dec-31-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Elmord</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
 </property>
 <property type="rental" status="active" id="21602" url="https://myspacenyc.cazamio.com/apartments/1620-New-York-Avenue-Unit-4B-Brooklyn-NY-11210-21602">
   <location>
