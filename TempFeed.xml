@@ -3442,6 +3442,66 @@ Pacific House offers a collection of Studio, 1 and 2 Bedroom luxury apartments f
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-05/22_638526153115363185.png?sv=2019-07-07&amp;sr=c&amp;sig=H5R0p4ks4dextkGHop5hrH6pzT3eAi8IKn37Q6yR4oI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="30392" url="https://myspacenyc.cazamio.com/apartments/666-Hancock-St-Unit-1F-Brooklyn-NY-11233-30392">
+  <location>
+    <address>666 Hancock St</address>
+    <apartment>1F</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+    <neighborhood>Bedford Stuyvesant</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>Broker's Fee</pay_type>
+    <price>2350</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Dec-13-2024</availableOn>
+    <description>-Spacious unit with an amazing layout!!!
+
+-Queen sized bedroom with closet space 
+
+-Fully renovated kitchen features brand new Stainless steel appliances 
+
+-Heat/Hot Water Included 
+
+-J/Z/A/C train accessible (Few blocks away) 
+
+-Amazing neighborhood with ample things to do! Restaurants, bars, juice bars, etc..... Casa Blanca lounge, Saraghina, and Peaches all within arm's reach. Pet spa right around the corner! 
+
+-City less than 20 min. away on any train 
+
+
+Cal/Text/Email to set up a viewing</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>hershko</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="21465" url="https://myspacenyc.cazamio.com/apartments/930-Dekalb-Ave-Unit-206-Brooklyn-NY-11221-21465">
   <location>
     <address>930 Dekalb Ave</address>
@@ -7979,7 +8039,7 @@ Trains: 18th Av [F] Newkirk Plaza [B, Q] Bus: B8, B68</description>
     <bedrooms>2</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
-    <availableOn>Dec-01-2024</availableOn>
+    <availableOn>Dec-13-2024</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>Jack</owner_company_name>
