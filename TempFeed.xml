@@ -4036,6 +4036,57 @@ Guarantors Accepted!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638715246305488996.jpeg?sv=2024-11-04&amp;se=2027-01-03T18%3A10%3A30Z&amp;sr=b&amp;sp=r&amp;sig=3TtIrJozrLt%2BDd2Z%2BVCCBLDN%2FT%2Bu4KH9hKYQlI%2FqJ1Y%3D" position="8" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="30838" url="https://myspacenyc.cazamio.com/apartments/1608-Avenue-O-Unit-1B-Brooklyn-NY-11230-30838">
+  <location>
+    <address>1608 Avenue O</address>
+    <apartment>1B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11230</zipcode>
+    <neighborhood>Midwood</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>1650</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jan-04-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CS1198</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <agents>
+    <agent id="f7065d53-c262-4614-b7dc-4acab04ef17f">
+      <company>MySpace NYC</company>
+      <email>contessa.stuto@myspacenyc.com</email>
+      <lead_email>contessa.stuto@myspacenyc.com</lead_email>
+    </agent>
+  </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="20950" url="https://myspacenyc.cazamio.com/apartments/1198-Putnam-Avenue-Unit-3L-Brooklyn-NY-11221-20950">
   <location>
     <address>1198 Putnam Avenue</address>
