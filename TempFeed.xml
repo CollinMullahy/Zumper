@@ -13422,28 +13422,29 @@ AMENITIES
   </agents>
   <media />
 </property>
-<property type="rental" status="active" id="30390" url="https://myspacenyc.cazamio.com/apartments/299-Saratoga-Avenue-Unit-2B-Brooklyn-NY-11233-30390">
+<property type="rental" status="active" id="31618" url="https://myspacenyc.cazamio.com/apartments/727-Dekalb-Avenue-Unit-5PH-Brooklyn-NY-11216-31618">
   <location>
-    <address>299 Saratoga Avenue</address>
-    <apartment>2B</apartment>
+    <address>727 Dekalb Avenue</address>
+    <apartment>5PH</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11233</zipcode>
-    <neighborhood>Ocean Hill</neighborhood>
+    <zipcode>11216</zipcode>
+    <neighborhood>Bedford-Stuyvesant</neighborhood>
   </location>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
-    <price>2700</price>
+    <pay_type>No Fee</pay_type>
+    <price>2900</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
+    <bedrooms>1</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
-    <availableOn>Feb-01-2025</availableOn>
-    <description />
+    <availableOn>Feb-06-2025</availableOn>
+    <description>Penthouse private roof deck
+No fee</description>
     <propertyType>rental</propertyType>
     <owner_company_name>CSBRWY</owner_company_name>
     <amenities>
@@ -13471,11 +13472,19 @@ AMENITIES
       <lead_email>contessa.stuto@myspacenyc.com</lead_email>
     </agent>
   </agents>
-  <media />
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431244107.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=CoKGa6g9m6tKQxTUFljy5PSN4fAqyXzWpiX%2BkWpylfg%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431553940.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=ReNYNr%2FJD03pBoct5g1nG%2BJoYcL%2FNHHFpGOw0URYkr4%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431500905.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=PwAtCabBZvlzdduo330C3lsQ6psqMH7n8fNHr59Ot%2BM%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431963597.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=UwclhHy7c1k%2F58Lu7psYKsGjUzwlw82CBZgltevr270%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431995843.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=%2BwwOdaSQ5V0g5eZ8IKoBgaty%2BKzEa884E%2BVYW4h8%2Fq4%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431979505.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=868Ea0u8p07tWgX9WBpTZDEaubbiuTUi2H0BPIy7SS0%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736432011255.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=aplxp6NbmewKvbwKS8UnzriEGeR5BMh8enl8j4NwN4o%3D" position="6" description="" />
+  </media>
 </property>
-<property type="rental" status="active" id="30391" url="https://myspacenyc.cazamio.com/apartments/1269-Herkimer-Street-Unit-2B-Brooklyn-NY-11233-30391">
+<property type="rental" status="active" id="30390" url="https://myspacenyc.cazamio.com/apartments/299-Saratoga-Avenue-Unit-2B-Brooklyn-NY-11233-30390">
   <location>
-    <address>1269 Herkimer Street</address>
+    <address>299 Saratoga Avenue</address>
     <apartment>2B</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -13485,12 +13494,12 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
-    <price>2350</price>
+    <pay_type>No Fee</pay_type>
+    <price>2700</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
+    <bedrooms>2</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Feb-01-2025</availableOn>
@@ -13536,7 +13545,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>3495</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -13587,7 +13596,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2750</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -13649,7 +13658,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2600</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -13700,7 +13709,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>3650</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -13751,7 +13760,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>3650</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -13802,7 +13811,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2650</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -13853,7 +13862,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2600</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -13904,7 +13913,7 @@ AMENITIES
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>2750</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -14057,27 +14066,27 @@ To schedule a private viewing; for more details contact anytime.</description>
       </agents>
   <media />
 </property>
-<property type="rental" status="active" id="31586" url="https://myspacenyc.cazamio.com/apartments/821-Madison-Street-Unit-3-Brooklyn-NY-11221-31586">
+<property type="rental" status="active" id="31417" url="https://myspacenyc.cazamio.com/apartments/397-Herkimer-Street-Unit-3-Brooklyn-NY-11213-31417">
   <location>
-    <address>821 Madison Street</address>
+    <address>397 Herkimer Street</address>
     <apartment>3</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Ocean Hill</neighborhood>
+    <zipcode>11213</zipcode>
+    <neighborhood>Bedford-Stuyvesant</neighborhood>
   </location>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3800</price>
+    <price>3700</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
     <bedrooms>4</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
-    <availableOn>Feb-05-2025</availableOn>
+    <availableOn>Feb-02-2025</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>TopCare</owner_company_name>
@@ -14102,27 +14111,27 @@ To schedule a private viewing; for more details contact anytime.</description>
       </agents>
   <media />
 </property>
-<property type="rental" status="active" id="31417" url="https://myspacenyc.cazamio.com/apartments/397-Herkimer-Street-Unit-3-Brooklyn-NY-11213-31417">
+<property type="rental" status="active" id="31586" url="https://myspacenyc.cazamio.com/apartments/821-Madison-Street-Unit-3-Brooklyn-NY-11221-31586">
   <location>
-    <address>397 Herkimer Street</address>
+    <address>821 Madison Street</address>
     <apartment>3</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11213</zipcode>
-    <neighborhood>Bedford-Stuyvesant</neighborhood>
+    <zipcode>11221</zipcode>
+    <neighborhood>Ocean Hill</neighborhood>
   </location>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3700</price>
+    <price>3800</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
     <bedrooms>4</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
-    <availableOn>Feb-02-2025</availableOn>
+    <availableOn>Feb-05-2025</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>TopCare</owner_company_name>
