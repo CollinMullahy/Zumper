@@ -4731,6 +4731,62 @@ Additional Information:
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-07/1990_638252411233493759.png?sv=2019-07-07&amp;sr=c&amp;sig=jKg0oRmyXWqNkmIP16zk3DiOYcqsQpp384tqvjZGG3w%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="1518" url="https://myspacenyc.cazamio.com/apartments/1365-Nostrand-Ave.-Unit-4C-Brooklyn-NY-11226-1518">
+  <location>
+    <address>1365 Nostrand Ave.</address>
+    <apartment>4C</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+    <neighborhood>Prospect Lefferts Gardens</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3174</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>4</totalrooms>
+    <bathrooms>1.5</bathrooms>
+    <availableOn>Jun-01-2025</availableOn>
+    <description>Virtual tours available!Do not miss out on this 3 bed / 1.5 bath apartment in Brooklyn's up and coming neighborhood Prospect Lefferts Gardens! People forget that Brooklyn is the biggest borough and offers some of the best, historic architecture. Enjoy the neighborhood's easy access to the B,Q,2,3 lines, a number of bus lines, and short walk to Prospect Park. Live within steps to juice bars, grocery stores, restaurants, coffee shops, bars, pharmacies, banks, local bakeries, and more to explore. Brooklyn Greenery, MIdwood Flats, Irv's, Bluebird, Blessings, and Food Sermon are just a couple of the many options to check out in this vibrant neighborhood.Easy commute to Manhattan; easy access to the rest of Brooklyn's hottest neighborhoods.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>J26</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Central A/C, Dishwasher, Hardwood Floors</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/534/large/1365_Nostrand_Ave__4C_%281_of_5%29.jpg?1645715763" position="0" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/529/large/1365_Nostrand_Ave__4C_%282_of_10%29.jpg?1645715523" position="1" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/530/large/1365_Nostrand_Ave__4C_%283_of_10%29.jpg?1645715525" position="2" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/531/large/1365_Nostrand_Ave__4C_%284_of_10%29.jpg?1645715526" position="3" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/535/large/1365_Nostrand_Ave__4C_%282_of_5%29.jpg?1645715764" position="4" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/533/large/1365_Nostrand_Ave__4C_%283_of_5%29.jpg?1645715761" position="5" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/536/large/1365_Nostrand_Ave__4C_%284_of_5%29.jpg?1645715766" position="6" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/532/large/1365_Nostrand_Ave__4C_%285_of_5%29.jpg?1645715761" position="7" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/526/large/1365_Nostrand_Ave__4C_%289_of_10%29.jpg?1645715520" position="8" description="" />
+    <photo url="https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/436/527/large/1365_Nostrand_Ave__4C_%2810_of_10%29.jpg?1645715520" position="9" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="16350" url="https://myspacenyc.cazamio.com/apartments/1359-Nostrand-Avenue-Unit-4D-Brooklyn-NY-11226-16350">
   <location>
     <address>1359 Nostrand Avenue</address>
@@ -7959,7 +8015,7 @@ Pets welcome</description>
     <neighborhood>Ridgewood</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4500</price>
