@@ -4789,6 +4789,51 @@ No broker fee</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638758434480674697.jpeg?sv=2025-01-05&amp;se=2027-02-22T17%3A50%3A48Z&amp;sr=b&amp;sp=r&amp;sig=De6CUSZCeOY5zqbdx1NYyvnp2kA8OgzE6UNT7Jtx2EU%3D" position="8" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="32640" url="https://myspacenyc.cazamio.com/apartments/1633-Saint-Johns-Place-Unit-3-Brooklyn-NY-11233-32640">
+  <location>
+    <address>1633 Saint Johns Place</address>
+    <apartment>3</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3400</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Mar-27-2025</availableOn>
+    <description>Discover this gorgeous, recently renovated 3-bedroom apartment in the heart of Crown Heights! Featuring exposed brick, a dishwasher, an ice machine, a microwave, and tons of cabinet space, this home blends modern convenience with classic charm. Easy access to the 3/4 trains at Utica Ave and A/C trains at Ralph Ave, making commuting a breeze. Situated in a vibrant neighborhood near Lincoln Terrace Park, shopping, and dining, this apartment offers the perfect blend of comfort and convenience. Schedule a viewing today!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Google</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Dishwasher, Microwave</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="32584" url="https://myspacenyc.cazamio.com/apartments/1633-Saint-Johns-Place-Unit-2-Brooklyn-NY-11233-32584">
   <location>
     <address>1633 Saint Johns Place</address>
@@ -4802,7 +4847,7 @@ No broker fee</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>2800</price>
+    <price>3000</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
