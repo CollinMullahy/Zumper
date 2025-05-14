@@ -221,7 +221,7 @@ NO BROKER FEE</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4250</price>
@@ -16085,10 +16085,10 @@ NO FEE!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638158711379662170.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="2337" url="https://myspacenyc.cazamio.com/apartments/1365-St-Johns-Pl-Unit-3a-Brooklyn-NY-11213-2337">
+<property type="rental" status="active" id="2337" url="https://myspacenyc.cazamio.com/apartments/1365-St-Johns-Pl-Unit-3A-Brooklyn-NY-11213-2337">
   <location>
     <address>1365 St Johns Pl</address>
-    <apartment>3a</apartment>
+    <apartment>3A</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11213</zipcode>
