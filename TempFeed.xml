@@ -1612,6 +1612,51 @@ Call or text to set up a viewing right away!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/22_638155377344729862.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="35138" url="https://myspacenyc.cazamio.com/apartments/197-Johnson-Ave-Unit-4A-Brooklyn-NY-11206-35138">
+  <location>
+    <address>197 Johnson Ave</address>
+    <apartment>4A</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3150</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Aug-01-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>NR_Bobby</owner_company_name>
+    <amenities>
+      <pets />
+      <other>A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="2176" url="https://myspacenyc.cazamio.com/apartments/26-Wilson-Ave-Unit-2L-Brooklyn-NY-11237-2176">
   <location>
     <address>26 Wilson Ave</address>
