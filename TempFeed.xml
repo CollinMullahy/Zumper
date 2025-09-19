@@ -2954,10 +2954,10 @@ Schedule a tour today!</description>
     <neighborhood>Ridgewood</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>3000</price>
+    <price>3500</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -3076,11 +3076,24 @@ You'll be right around the corner from dozens of top-rated bars, restaurants, ca
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Nov-01-2025</availableOn>
-    <description />
+    <description>Spacious True Three-Bedroom in the Heart of Greenpoint
+
+Discover a rare find in one of Brooklyn?s most sought-after neighborhoods. This bright and airy three-bedroom apartment features:
+
+Polished hardwood floors that add warmth and character
+
+Oversized windows flooding the space with natural sunlight
+
+Central air conditioning to keep you comfortable in every season
+
+Perfectly situated near Greenpoint?s favorite caf?s, bars, and restaurants, you?ll enjoy easy access to all the local hotspots while still having a quiet place to call home.
+
+A genuine three-bedroom at this price point in Greenpoint is hard to come by?schedule a viewing before it?s gone.</description>
     <propertyType>rental</propertyType>
     <owner_company_name>wmm</owner_company_name>
     <amenities>
       <pets />
+      <other>Dishwasher</other>
     </amenities>
   </details>
 <agents>
@@ -3129,7 +3142,19 @@ You'll be right around the corner from dozens of top-rated bars, restaurants, ca
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Nov-01-2025</availableOn>
-    <description />
+    <description>BEAUTIFUL 2 BEDROOM
+
+Great location, near the J.M.Z Lorimar or L. Montrose
+
+Laundry room
+Dishwasher
+Queen size Bedroom
+Central A/C
+Exposed brick
+S/S appliances, Wood flooring
+Windows/Closets
+
+TEXT or EMAIL for a viewing today - NO FEE!!</description>
     <propertyType>rental</propertyType>
     <owner_company_name>wmm</owner_company_name>
     <amenities>
@@ -3150,7 +3175,14 @@ You'll be right around the corner from dozens of top-rated bars, restaurants, ca
           </phone_numbers>
         </agent>
       </agents>
-  <media />
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341911801.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=EtCtOLznjAvPOK7M%2Bu5oUo0%2BGUOchycst%2FfpKqhDcMI%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341926308.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=Ea3Wily7cRM5u6UlYKiwBaZof1srSBPdafJ3k%2BZYR9w%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908409656363.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A40Z&amp;sr=b&amp;sp=r&amp;sig=BL3VEj5RP7ck%2Bl%2BwPvQbkOaKi6deCti2WCf7GOo5llI%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341904978.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=ZIOoovY4di2Lxz2MPL1Gr4wHkG3Jv2VHVNCZK8tMQGs%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341927913.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=48ixmx37jsiIVEOqNaYqX645mQMGNh6llig2pSpEqts%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638938908341938265.jpeg?sv=2025-05-05&amp;se=2027-09-19T15%3A00%3A34Z&amp;sr=b&amp;sp=r&amp;sig=aaBuseXwEH0kv2JyNkvYU5xitjm0LIXAdafkI%2ByZJ9Q%3D" position="5" description="" />
+  </media>
 </property>
 <property type="rental" status="active" id="36979" url="https://myspacenyc.cazamio.com/apartments/16-25-Putnam-Ave-Unit-1D-Flushing-NY-11385-36979">
   <location>
