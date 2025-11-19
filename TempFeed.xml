@@ -4681,7 +4681,7 @@ Message now to schedule a tour!</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>2950</price>
+    <price>3200</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -5207,6 +5207,67 @@ No broker fee ? Schedule a tour today!</description>
     <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784303966386155.jpeg?sv=2025-01-05&amp;se=2027-03-24T16%3A26%3A36Z&amp;sr=b&amp;sp=r&amp;sig=YoVb9pQKAgNM6THZ0DrUtXgU3zbjt3e2U06lDfHJlE8%3D" />
     <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784303966626952.jpeg?sv=2025-01-05&amp;se=2027-03-24T16%3A26%3A36Z&amp;sr=b&amp;sp=r&amp;sig=ePW9AAYcn4N8PL0QrHK2pepO2DpL1BX1nbJycrNanJo%3D" />
     <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784303965323001.jpeg?sv=2025-01-05&amp;se=2027-03-24T16%3A26%3A36Z&amp;sr=b&amp;sp=r&amp;sig=Z8u5PlG2yj3BTDxeLwDK6uLIPPxvXvns%2FUeuTGkUfyY%3D" />
+  </media>
+</property>
+<property id="38004" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/24-Rogers-Ave-Unit-3a-Brooklyn-NY-11216-38004">
+  <location>
+    <address>24 Rogers Ave</address>
+    <apartment>3a</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Nov-20-2025</availableOn>
+    <description>Welcome to 24 Rogers Ave!
+
+Apartment Features:
+? Hardwood floors
+? Washer/dryer combo unit
+? Renovated bathroom
+? Heat; hot water included
+
+? Good income; credit required
+? Guarantors welcome
+
+Message now to schedule a tour!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Stone</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Washer/Dryer In Unit</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751766421804.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A36Z&amp;sr=b&amp;sp=r&amp;sig=wTSnru66a43t4n0rjgwf1mRBCKPzkzBf8CspKz1pQfM%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751864568061.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A46Z&amp;sr=b&amp;sp=r&amp;sig=o6l9B7plj9K8Zpj0Ggi1JLV4Di2TYB%2Bwta844Zt%2Fepw%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751920443318.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A52Z&amp;sr=b&amp;sp=r&amp;sig=A6rKD4v4YOQouF2mWWxYkWujvbCx7sX6xIaUjheO25Y%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751983597691.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A58Z&amp;sr=b&amp;sp=r&amp;sig=qgRH1%2Bp5pY%2Fv0ezxls8ZVSZMIcNJml%2FUWf8VwBHxmXk%3D" />
   </media>
 </property>
 <property id="36999" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/177-Concord-Street-Unit-2A-Brooklyn-NY-11201-36999">
