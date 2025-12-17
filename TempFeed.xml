@@ -5052,7 +5052,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Deposit Received</status>
+    <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>5175</price>
@@ -15905,54 +15905,6 @@ Lots of amenities</description>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>Brighton</owner_company_name>
-    <amenities>
-      <pets>Case by Case</pets>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
-<property id="38297" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/298-Bond-Street-Unit-2-Brooklyn-NY-11231-38297">
-  <location>
-    <address>298 Bond Street</address>
-    <apartment>2</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11231</zipcode>
-    <neighborhood>Gowanus</neighborhood>
-  </location>
-  <details>
-    <status>Deposit Received</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jan-15-2026</availableOn>
-    <description>Spacious and bright renovated apartment with 1 large bedroom plus 2 smaller bonus rooms and an open-plan living space - located in the super-cool Gowanus -section of Carroll Gardens.
-
- Fully renovated, this floor-through space includes a huge Chef's Kitchen with adult sized dishwasher. The 2 bonus rooms can be used as additional bedrooms, office, studio, library, den or large walk-in closet. 
-
-An original decorative fireplace (hidden in the pics)adds old-Brooklyn charm to the larger bedroom. You'll have the best of all worlds, two blocks to the F/G trains and the plethora of amenities that Smith and Court Streets offer - while remaining on the cool and quiet Gowanus edge.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>298Bond</owner_company_name>
     <amenities>
       <pets>Case by Case</pets>
     </amenities>
