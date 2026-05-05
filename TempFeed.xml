@@ -16298,6 +16298,50 @@ Pets welcome</description>
     <photo description="" position="9" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-11/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638984037317243465.jpeg?sv=2025-05-05&amp;se=2027-11-10T20%3A35%3A31Z&amp;sr=b&amp;sp=r&amp;sig=F%2FLrSx%2BwkxJ%2Bwk7MI6s%2BonJlJ%2BWNFbAMeJCXX2QFhL4%3D" />
   </media>
 </property>
+<property id="39615" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/289-Stanhope-Street-Unit-3F-Brooklyn-NY-11237-39615">
+  <location>
+    <address>289 Stanhope Street</address>
+    <apartment>3F</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3200</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>May-05-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CSGM</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property id="39552" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/4-88-Grandview-Avenue-Unit-2R-Queens-NY-11385-39552">
   <location>
     <address>4-88 Grandview Avenue</address>
