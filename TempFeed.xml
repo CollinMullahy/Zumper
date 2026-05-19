@@ -9409,7 +9409,7 @@ Small pets OK</description>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>0</bedrooms>
+    <bedrooms>1</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1</bathrooms>
     <availableOn>Jun-01-2026</availableOn>
@@ -9450,16 +9450,12 @@ Located near the J/M/Z trains, with a commute to Manhattan in about 25 minutes o
         </agent>
       </agents>
   <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163008426.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A37Z&amp;sr=b&amp;sp=r&amp;sig=WPRqDK21RYdrD28hFmqxkNObJto9kc3EfH6VmheKt9w%3D" />
-    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374162917139.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=V%2FOnzrZoNq340AwV70Qj3jbXZKA0YJG9lzd8CWFx118%3D" />
-    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163006005.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=Hv%2BgSTKnfjorXdF3ek%2BVn7p5VzA%2Fchh%2BuR4gZKMtwh0%3D" />
-    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163069124.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=N0T0KugINkQOO%2FoY%2F8lcNDz4ksNfsvsrvKHynhlVcGE%3D" />
-    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163005111.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=y2UPGzdt7LncOzLtT2p4pZ4gf0j66y5GWo50WJaQEPs%3D" />
-    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374162963278.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=QOJ80dK7ZjcWFUvh5G6l1okWHkeGMhqcaYsCDEl2tZk%3D" />
-    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374162976595.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=kmMZbL07OxSbf4%2FLl6CdmvNwVufYAPNrRC16Iqrm9T0%3D" />
-    <photo description="" position="7" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374162901534.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=uYZ3Lhunj8Gdtq%2Bx6tg9%2FgLqraOAc9otKtEHW%2BCXXwE%3D" />
-    <photo description="" position="8" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163624104.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=8xXtnDu63JAWh6bWNhb3re6T0UIlkI7RD7Jt%2BPtQ75I%3D" />
-    <photo description="" position="9" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163675851.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=VQ%2BTc5oFK%2FmG9NLji1ee%2F2qQub7kzs8q6aSA5TWh4RQ%3D" />
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374162917139.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=V%2FOnzrZoNq340AwV70Qj3jbXZKA0YJG9lzd8CWFx118%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163069124.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=N0T0KugINkQOO%2FoY%2F8lcNDz4ksNfsvsrvKHynhlVcGE%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163005111.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=y2UPGzdt7LncOzLtT2p4pZ4gf0j66y5GWo50WJaQEPs%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374162901534.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=uYZ3Lhunj8Gdtq%2Bx6tg9%2FgLqraOAc9otKtEHW%2BCXXwE%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163624104.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=8xXtnDu63JAWh6bWNhb3re6T0UIlkI7RD7Jt%2BPtQ75I%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639147374163675851.jpeg?sv=2025-05-05&amp;se=2028-05-18T21%3A43%3A36Z&amp;sr=b&amp;sp=r&amp;sig=VQ%2BTc5oFK%2FmG9NLji1ee%2F2qQub7kzs8q6aSA5TWh4RQ%3D" />
   </media>
 </property>
 <property id="38682" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/2081-5th-Avenue-Unit-4-New-York-NY-10035-38682">
