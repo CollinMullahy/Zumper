@@ -783,7 +783,7 @@ No fee</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3250</price>
@@ -4706,67 +4706,6 @@ Reach out to schedule a tour.</description>
     <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639129909047304214.jpeg?sv=2025-05-05&amp;se=2028-04-28T16%3A35%3A04Z&amp;sr=b&amp;sp=r&amp;sig=kpc5hvhagq1%2F7%2BipBAepPCYf3qvp04kzD0IV5OXgLmg%3D" />
     <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639129909047063583.jpeg?sv=2025-05-05&amp;se=2028-04-28T16%3A35%3A04Z&amp;sr=b&amp;sp=r&amp;sig=4TibtYSTT8HS7coEky5m364JqkuaCiQoGIdUvQKDy7s%3D" />
   </media>
-</property>
-<property id="39730" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1193-Nostrand-Avenue-Unit-3A-Brooklyn-NY-11225-39730">
-  <location>
-    <address>1193 Nostrand Avenue</address>
-    <apartment>3A</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11225</zipcode>
-    <neighborhood>Prospect Lefferts Gardens</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3200</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jul-01-2026</availableOn>
-    <description>BRAND NEW LUXURY 2 Bed /1 Bath + Washer/Dryer IN-UNIT!! PRIME LEFFERTS GARDEN!! Unit Features: Hardwood floors throughout, Full Gourmet stainless steel kitchen with granite counter tops, DISHWASHER, Large bedrooms with Great closet space!! Fully tiled bathroom with deep-soaking tub!! Large windows bringing in tons of direct sunlight, Central heating and AC, Video Intercom systems, and so much more!!
-
-BRAND NEW Luxury Building Features :
-
-? virtual Doorman
-? Bike Storage
-? Laundry Room
-? Shared Garden
-- security camera systems
-
-Walking distance to public transportation 2,5, B, Q and S Train Lines on Winthrop; Nostrand ave!
-
-Steps to Prospect Park, trendy bars , organic markets and shops!!
-
-Guarantors are welcome!
-
-Schedule now to view!</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>RogersMGT</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher, Washer/Dryer In Unit</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
 </property>
 <property id="39538" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/830-St-Johns-Pl-Unit-5F-Brooklyn-NY-11216-39538">
   <location>
@@ -10416,7 +10355,6 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <description>2 Bed/1.5 Bathroom available!
 
  stainless steel appliances
-Dishwasher
 Skylights
 Spacious bedrooms can fit queen size bed plus furniture with large closets
 Central heat
@@ -10427,7 +10365,7 @@ SHAREDYARD</description>
     <owner_company_name>CW</owner_company_name>
     <amenities>
       <pets />
-      <other>Dishwasher, Microwave, Shared Outdoor Space</other>
+      <other>Microwave, Shared Outdoor Space</other>
     </amenities>
   </details>
 <agents>
