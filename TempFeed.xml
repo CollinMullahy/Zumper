@@ -21512,4 +21512,48 @@ A backyard and duplex layout make this a truly special opportunity you won?t wan
       </agents>
   <media />
 </property>
+<property id="40269" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/608-Pennsylvania-Avenue-Unit-3-Brooklyn-NY-11207-40269">
+  <location>
+    <address>608 Pennsylvania Avenue</address>
+    <apartment>3</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+    <neighborhood>East New York</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>5200</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>5</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Jun-22-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Khayah</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 </properties>
