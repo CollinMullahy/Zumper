@@ -10323,7 +10323,7 @@ Call or text Today!</description>
   <details>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
-    <pay_type>Broker's Fee</pay_type>
+    <pay_type>No Fee</pay_type>
     <price>3125</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
@@ -18023,6 +18023,16 @@ Building offers A 24HR GYM, Bike Storage, Bike Room, Laundry Room, Package Room,
           </phone_numbers>
         </agent>
       </agents>
+  <agents>
+    <agent id="7d13ec0c-773a-4727-8e7e-2103e5083b2a">
+      <company>MySpace NYC</company>
+      <email>contessa@myspacenyc.com</email>
+      <lead_email>contessa@myspacenyc.com</lead_email>
+      <phone_numbers>
+        <main>123-123-1234</main>
+      </phone_numbers>
+    </agent>
+  </agents>
   <media />
 </property>
 <property id="40210" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/227-Thomas-S-Boyland-Street-Unit-1-Brooklyn-NY-11233-40210">
