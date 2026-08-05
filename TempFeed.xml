@@ -841,7 +841,7 @@ Small pets welcome</description>
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Deposit Received</status>
+    <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>Broker's Fee</pay_type>
     <price>2600</price>
@@ -17222,6 +17222,51 @@ Pets welcome
     <photo description="" position="21" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886674398065.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=RbAabpUwsxHlQiP9lMlK0g1OedgR5OkJxw8xpqtgSeA%3D" />
     <photo description="" position="22" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886677745675.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=5xRdEsTwyymznZ0s%2BJskvveIX2omLo%2FgyW%2BbYCOdgKA%3D" />
   </media>
+</property>
+<property id="40822" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/850-Flushing-Avenue-Unit-2R-Brooklyn-NY-11206-40822">
+  <location>
+    <address>850 Flushing Avenue</address>
+    <apartment>2R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Sep-01-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Green Eye</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher, Hardwood Floors, Private Outdoor Space, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
 </property>
 <property id="40316" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1935-Bergen-Street-Unit-1-Brooklyn-NY-11233-40316">
   <location>
