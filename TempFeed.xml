@@ -19876,7 +19876,7 @@ Contact us today to schedule a private tour?this Williamsburg duplex won't last 
     <bedrooms>1</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>1.5</bathrooms>
-    <availableOn>Oct-01-2026</availableOn>
+    <availableOn>Sep-01-2026</availableOn>
     <description />
     <propertyType>rental</propertyType>
     <owner_company_name>Frimi</owner_company_name>
@@ -21449,5 +21449,93 @@ Conveniently located near public transportation, neighborhood caf?s, restaurants
     <photo description="" position="18" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/3d961a17-fb8d-44b8-997a-90338e9edda0_639208544227232364.jpeg?sv=2025-05-05&amp;se=2028-07-28T16%3A53%3A42Z&amp;sr=b&amp;sp=r&amp;sig=Rx0isvFBx%2BcOuHj0FhhOhH5peq2iL%2B3FYyNNIbHx4Ww%3D" />
     <photo description="" position="19" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/3d961a17-fb8d-44b8-997a-90338e9edda0_639208544227937636.jpeg?sv=2025-05-05&amp;se=2028-07-28T16%3A53%3A43Z&amp;sr=b&amp;sp=r&amp;sig=MHXca8DbpEr9mZibJiRlytK3w25pKHsp9sGoSWoYDbs%3D" />
   </media>
+</property>
+<property id="40857" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/95-Rockaway-Parkway-Unit-1R-Brooklyn-NY-11212-40857">
+  <location>
+    <address>95 Rockaway Parkway</address>
+    <apartment>1R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11212</zipcode>
+    <neighborhood>Brownsville</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2600</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Aug-11-2026</availableOn>
+    <description>Heat included</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Joe</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property id="40858" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1320-Eastern-Parkway-Unit-2-Brooklyn-NY-11233-40858">
+  <location>
+    <address>1320 Eastern Parkway</address>
+    <apartment>2</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2600</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Aug-11-2026</availableOn>
+    <description>Heat Included</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>Joe</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
 </property>
 </properties>
