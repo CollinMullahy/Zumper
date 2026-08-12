@@ -9280,7 +9280,7 @@ No broker fee</description>
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>2500</price>
@@ -15675,6 +15675,50 @@ Experience a lifestyle where convenience meets comfort at 2913 Snyder Avenue.</d
     <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/3d961a17-fb8d-44b8-997a-90338e9edda0_639207709285561504.jpeg?sv=2025-05-05&amp;se=2028-07-27T17%3A42%3A08Z&amp;sr=b&amp;sp=r&amp;sig=kLwGl2NFsLeCCIWp2eglsLkNxrIz5uv6iyZyza8JqSM%3D" />
     <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/3d961a17-fb8d-44b8-997a-90338e9edda0_639207709285021846.jpeg?sv=2025-05-05&amp;se=2028-07-27T17%3A42%3A08Z&amp;sr=b&amp;sp=r&amp;sig=hdSmMFICQpkIg51xtM6Kj95wbAyzrwi%2B6sdAmaUzjkI%3D" />
   </media>
+</property>
+<property id="40866" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1128-Willoughby-Avenue-Unit-2R-Brooklyn-NY-11237-40866">
+  <location>
+    <address>1128 Willoughby Avenue</address>
+    <apartment>2R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3400</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Sep-01-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Elmord</owner_company_name>
+    <amenities>
+      <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
 </property>
 <property id="15646" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/292-Van-Brunt-St-Unit-1-Brooklyn-NY-11231-15646">
   <location>
