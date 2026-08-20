@@ -1566,7 +1566,7 @@ UNIT FEATURES
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
-    <bedrooms>3</bedrooms>
+    <bedrooms>2</bedrooms>
     <totalrooms>0</totalrooms>
     <bathrooms>2</bathrooms>
     <availableOn>Oct-01-2026</availableOn>
@@ -19310,10 +19310,10 @@ Welcome to 1457 Flatbush Ave, a newly built residence offering style and conveni
     <photo description="" position="20" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812760999479577.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A55%3A00Z&amp;sr=b&amp;sp=r&amp;sig=vZMyIGqYJcqfWEr8SFJvTTxYMuLc6LrUAdvnaoZMQdI%3D" />
   </media>
 </property>
-<property id="40779" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/15-Van-Buren-Street-Unit-1R-Brooklyn-NY-11221-40779">
+<property id="40779" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/15-Van-Buren-Street-Unit-1L-Brooklyn-NY-11221-40779">
   <location>
     <address>15 Van Buren Street</address>
-    <apartment>1R</apartment>
+    <apartment>1L</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11221</zipcode>
@@ -21945,6 +21945,51 @@ Conveniently located near public transportation, neighborhood caf?s, restaurants
     <owner_company_name>Joe</owner_company_name>
     <amenities>
       <pets />
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property id="40978" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/173-Tompkins-Avenue-Unit-4R-Brooklyn-NY-11206-40978">
+  <location>
+    <address>173 Tompkins Avenue</address>
+    <apartment>4R</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Bedford-Stuyvesant</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>5200</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>3</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1.5</bathrooms>
+    <availableOn>Aug-20-2026</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Rockpoint</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Dishwasher, Microwave, Washer/Dryer In Unit, Central A/C</other>
     </amenities>
   </details>
 <agents>
